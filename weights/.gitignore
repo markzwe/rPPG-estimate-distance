@@ -1,0 +1,6 @@
+checkpoints/
+*.onnx
+
+# Ship default MobileNet checkpoints with the repo
+!mb1_120x120.pth
+!mb05_120x120.pth

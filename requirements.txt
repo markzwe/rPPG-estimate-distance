@@ -1,0 +1,30 @@
+# Core scientific stack
+numpy>=1.23
+opencv-python
+scipy
+matplotlib
+pandas
+pyyaml
+tqdm
+pillow
+imageio
+imageio-ffmpeg
+scikit-image
+cython
+
+# Deep learning
+torch>=2.1.0
+torchvision>=0.16.0
+timm
+einops>=0.7.0
+huggingface-hub>=0.22.0
+
+# 3DDFA / detectors
+onnxruntime
+insightface
+
+# UniDepth helpers
+h5py>=3.10.0
+trimesh
+tabulate
+termcolor

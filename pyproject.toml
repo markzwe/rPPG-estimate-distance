@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rppg-distance-estimation"
+version = "0.1.0"
+description = "Facial motion analysis with region-aware FPS landmarks and optional UniDepth metric depth"
+readme = "README.md"
+requires-python = ">=3.10.0"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+include = ["unidepth*", "bfm*", "models*", "FaceBoxes*", "utils*"]

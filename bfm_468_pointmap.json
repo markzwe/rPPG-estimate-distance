@@ -1,0 +1,3746 @@
+[
+  {
+    "point_id": 0,
+    "bfm_vertex_index": 13119,
+    "mean_face_x": 42725.5781,
+    "mean_face_y": -41613.3477,
+    "mean_face_z": 88939.5625,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 1,
+    "bfm_vertex_index": 17326,
+    "mean_face_x": -72348.7891,
+    "mean_face_y": 5613.7407,
+    "mean_face_z": 14785.3291,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 2,
+    "bfm_vertex_index": 33923,
+    "mean_face_x": -58904.0273,
+    "mean_face_y": -52480.4922,
+    "mean_face_z": 37338.1289,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 3,
+    "bfm_vertex_index": 20951,
+    "mean_face_x": -66271.9922,
+    "mean_face_y": -12465.3867,
+    "mean_face_z": 54802.5547,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 4,
+    "bfm_vertex_index": 24181,
+    "mean_face_x": 63768.9062,
+    "mean_face_y": -17135.668,
+    "mean_face_z": 60431.0234,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 5,
+    "bfm_vertex_index": 38012,
+    "mean_face_x": 56667.4648,
+    "mean_face_y": -53315.7578,
+    "mean_face_z": 56640.832,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 6,
+    "bfm_vertex_index": 14108,
+    "mean_face_x": 48360.0391,
+    "mean_face_y": -4645.6128,
+    "mean_face_z": 91417.3125,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 7,
+    "bfm_vertex_index": 16302,
+    "mean_face_x": -65694.0156,
+    "mean_face_y": -26006.9316,
+    "mean_face_z": 19103.5664,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 8,
+    "bfm_vertex_index": 11803,
+    "mean_face_x": 28437.6602,
+    "mean_face_y": -21737.2793,
+    "mean_face_z": 101530.375,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 9,
+    "bfm_vertex_index": 36923,
+    "mean_face_x": 40329.3008,
+    "mean_face_y": -66718.0938,
+    "mean_face_z": 77986.9609,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 10,
+    "bfm_vertex_index": 19384,
+    "mean_face_x": -71166.2266,
+    "mean_face_y": 5410.2021,
+    "mean_face_z": 39639.2695,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 11,
+    "bfm_vertex_index": 20855,
+    "mean_face_x": -62627.4883,
+    "mean_face_y": -36109.3906,
+    "mean_face_z": 55143.0195,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 12,
+    "bfm_vertex_index": 15163,
+    "mean_face_x": 54351.5859,
+    "mean_face_y": -23930.8359,
+    "mean_face_z": 80099.1172,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 13,
+    "bfm_vertex_index": 10671,
+    "mean_face_x": 24145.6152,
+    "mean_face_y": -42907.8164,
+    "mean_face_z": 99807.0938,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 14,
+    "bfm_vertex_index": 18891,
+    "mean_face_x": -68738.0,
+    "mean_face_y": -14422.2939,
+    "mean_face_z": 35138.7383,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 15,
+    "bfm_vertex_index": 23433,
+    "mean_face_x": 59011.7422,
+    "mean_face_y": -35898.8398,
+    "mean_face_z": 65280.7812,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 16,
+    "bfm_vertex_index": 18275,
+    "mean_face_x": -64998.4453,
+    "mean_face_y": -34424.7188,
+    "mean_face_z": 36021.7656,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 17,
+    "bfm_vertex_index": 16175,
+    "mean_face_x": 60713.6328,
+    "mean_face_y": -6701.2983,
+    "mean_face_z": 75735.4453,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 18,
+    "bfm_vertex_index": 10947,
+    "mean_face_x": 30616.3242,
+    "mean_face_y": -59144.9727,
+    "mean_face_z": 93260.4922,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 19,
+    "bfm_vertex_index": 14301,
+    "mean_face_x": 49898.5508,
+    "mean_face_y": -50861.5469,
+    "mean_face_z": 74413.6875,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 20,
+    "bfm_vertex_index": 13481,
+    "mean_face_x": 43921.2422,
+    "mean_face_y": -21371.3652,
+    "mean_face_z": 93394.5391,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 21,
+    "bfm_vertex_index": 16287,
+    "mean_face_x": -60973.8711,
+    "mean_face_y": -43320.6445,
+    "mean_face_z": 23156.0586,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 22,
+    "bfm_vertex_index": 17465,
+    "mean_face_x": -70409.9844,
+    "mean_face_y": -9537.5381,
+    "mean_face_z": 19427.6914,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 23,
+    "bfm_vertex_index": 37318,
+    "mean_face_x": 48484.043,
+    "mean_face_y": -63474.1133,
+    "mean_face_z": 65287.6836,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 24,
+    "bfm_vertex_index": 19935,
+    "mean_face_x": -66187.6719,
+    "mean_face_y": -23867.3105,
+    "mean_face_z": 46009.6914,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 25,
+    "bfm_vertex_index": 12332,
+    "mean_face_x": 35071.4961,
+    "mean_face_y": -33392.8008,
+    "mean_face_z": 97887.7734,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 26,
+    "bfm_vertex_index": 14924,
+    "mean_face_x": 51911.4062,
+    "mean_face_y": -37553.6172,
+    "mean_face_z": 77787.1562,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 27,
+    "bfm_vertex_index": 12493,
+    "mean_face_x": 41382.9141,
+    "mean_face_y": -54915.625,
+    "mean_face_z": 84507.5781,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 28,
+    "bfm_vertex_index": 24974,
+    "mean_face_x": 63483.543,
+    "mean_face_y": -30326.627,
+    "mean_face_z": 53963.7383,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 29,
+    "bfm_vertex_index": 12696,
+    "mean_face_x": 36710.9062,
+    "mean_face_y": -11615.4199,
+    "mean_face_z": 98960.4922,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 30,
+    "bfm_vertex_index": 18358,
+    "mean_face_x": -71016.8672,
+    "mean_face_y": 1412.7042,
+    "mean_face_z": 27312.4531,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 31,
+    "bfm_vertex_index": 19912,
+    "mean_face_x": -69035.0625,
+    "mean_face_y": -5801.9072,
+    "mean_face_z": 44576.6406,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 32,
+    "bfm_vertex_index": 19321,
+    "mean_face_x": -61714.5078,
+    "mean_face_y": -45243.543,
+    "mean_face_z": 46893.1953,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 33,
+    "bfm_vertex_index": 25509,
+    "mean_face_x": 61285.9531,
+    "mean_face_y": -42702.8477,
+    "mean_face_z": 52991.9609,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 34,
+    "bfm_vertex_index": 11707,
+    "mean_face_x": 33847.3086,
+    "mean_face_y": -47605.0156,
+    "mean_face_z": 94786.125,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 35,
+    "bfm_vertex_index": 23028,
+    "mean_face_x": 59732.418,
+    "mean_face_y": -24288.6133,
+    "mean_face_z": 69558.2969,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 36,
+    "bfm_vertex_index": 15020,
+    "mean_face_x": 54571.7109,
+    "mean_face_y": -12420.2744,
+    "mean_face_z": 84061.7812,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 37,
+    "bfm_vertex_index": 14009,
+    "mean_face_x": 47434.3555,
+    "mean_face_y": -30666.2871,
+    "mean_face_z": 86890.2734,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 38,
+    "bfm_vertex_index": 18003,
+    "mean_face_x": -66995.0156,
+    "mean_face_y": -24868.3535,
+    "mean_face_z": 30555.7012,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 39,
+    "bfm_vertex_index": 21225,
+    "mean_face_x": -64019.7656,
+    "mean_face_y": -24837.0195,
+    "mean_face_z": 56910.7422,
+    "region": "right_eye"
+  },
+  {
+    "point_id": 40,
+    "bfm_vertex_index": 31483,
+    "mean_face_x": -3282.282,
+    "mean_face_y": 44808.2383,
+    "mean_face_z": 110195.9531,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 41,
+    "bfm_vertex_index": 36502,
+    "mean_face_x": 26935.2578,
+    "mean_face_y": -71444.8281,
+    "mean_face_z": 93773.5859,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 42,
+    "bfm_vertex_index": 12047,
+    "mean_face_x": 30096.5957,
+    "mean_face_y": -8099.3667,
+    "mean_face_z": 101038.9766,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 43,
+    "bfm_vertex_index": 31086,
+    "mean_face_x": -30378.9238,
+    "mean_face_y": 87500.9062,
+    "mean_face_z": 93557.4453,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 44,
+    "bfm_vertex_index": 7625,
+    "mean_face_x": -5641.5112,
+    "mean_face_y": -38670.8359,
+    "mean_face_z": 111253.6172,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 45,
+    "bfm_vertex_index": 31720,
+    "mean_face_x": 13960.2188,
+    "mean_face_y": 85223.0156,
+    "mean_face_z": 99648.0391,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 46,
+    "bfm_vertex_index": 14538,
+    "mean_face_x": 50107.1719,
+    "mean_face_y": -38803.4219,
+    "mean_face_z": 79949.8281,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 47,
+    "bfm_vertex_index": 30789,
+    "mean_face_x": -38746.6367,
+    "mean_face_y": 51447.1289,
+    "mean_face_z": 99925.0547,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 48,
+    "bfm_vertex_index": 10921,
+    "mean_face_x": 24581.2051,
+    "mean_face_y": -39701.0078,
+    "mean_face_z": 99907.625,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 49,
+    "bfm_vertex_index": 31895,
+    "mean_face_x": 20743.5254,
+    "mean_face_y": 58710.4609,
+    "mean_face_z": 106581.4219,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 50,
+    "bfm_vertex_index": 31363,
+    "mean_face_x": -10860.3252,
+    "mean_face_y": 71144.5625,
+    "mean_face_z": 105132.2109,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 51,
+    "bfm_vertex_index": 9282,
+    "mean_face_x": 7517.1089,
+    "mean_face_y": -15563.248,
+    "mean_face_z": 113192.6875,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 52,
+    "bfm_vertex_index": 8606,
+    "mean_face_x": 5180.585,
+    "mean_face_y": -62855.6484,
+    "mean_face_z": 108349.5547,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 53,
+    "bfm_vertex_index": 5945,
+    "mean_face_x": -21918.5156,
+    "mean_face_y": 35216.5078,
+    "mean_face_z": 99038.0938,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 54,
+    "bfm_vertex_index": 37016,
+    "mean_face_x": 41632.7227,
+    "mean_face_y": -60099.8086,
+    "mean_face_z": 80962.6641,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 55,
+    "bfm_vertex_index": 13866,
+    "mean_face_x": 46839.7578,
+    "mean_face_y": -19288.4043,
+    "mean_face_z": 91213.2266,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 56,
+    "bfm_vertex_index": 31040,
+    "mean_face_x": -29608.1836,
+    "mean_face_y": 68565.2344,
+    "mean_face_z": 100256.6797,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 57,
+    "bfm_vertex_index": 31159,
+    "mean_face_x": -20952.2051,
+    "mean_face_y": 52568.7031,
+    "mean_face_z": 108164.4766,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 58,
+    "bfm_vertex_index": 31459,
+    "mean_face_x": -4730.9644,
+    "mean_face_y": 88413.4062,
+    "mean_face_z": 100044.0156,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 59,
+    "bfm_vertex_index": 9897,
+    "mean_face_x": 12096.5098,
+    "mean_face_y": -33560.6992,
+    "mean_face_z": 113402.0312,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 60,
+    "bfm_vertex_index": 12351,
+    "mean_face_x": 38621.0547,
+    "mean_face_y": -46742.8555,
+    "mean_face_z": 91694.4688,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 61,
+    "bfm_vertex_index": 9926,
+    "mean_face_x": 20413.6387,
+    "mean_face_y": -56377.5781,
+    "mean_face_z": 101890.1484,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 62,
+    "bfm_vertex_index": 31851,
+    "mean_face_x": 14382.3438,
+    "mean_face_y": 42798.8789,
+    "mean_face_z": 108195.9062,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 63,
+    "bfm_vertex_index": 31625,
+    "mean_face_x": 5789.0474,
+    "mean_face_y": 67230.7344,
+    "mean_face_z": 106494.1016,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 64,
+    "bfm_vertex_index": 11288,
+    "mean_face_x": 23436.2168,
+    "mean_face_y": -23290.8594,
+    "mean_face_z": 104072.4688,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 65,
+    "bfm_vertex_index": 12587,
+    "mean_face_x": 36970.3555,
+    "mean_face_y": -30265.6094,
+    "mean_face_z": 96908.4062,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 66,
+    "bfm_vertex_index": 8836,
+    "mean_face_x": 7920.0093,
+    "mean_face_y": -48314.1914,
+    "mean_face_z": 112856.1172,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 67,
+    "bfm_vertex_index": 7426,
+    "mean_face_x": -8557.6836,
+    "mean_face_y": 31361.666,
+    "mean_face_z": 104868.4922,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 68,
+    "bfm_vertex_index": 31834,
+    "mean_face_x": 19368.0,
+    "mean_face_y": 72179.375,
+    "mean_face_z": 102569.5156,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 69,
+    "bfm_vertex_index": 31226,
+    "mean_face_x": -20492.3516,
+    "mean_face_y": 80342.3594,
+    "mean_face_z": 100681.0,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 70,
+    "bfm_vertex_index": 36316,
+    "mean_face_x": 16992.3047,
+    "mean_face_y": -70624.3828,
+    "mean_face_z": 103614.5625,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 71,
+    "bfm_vertex_index": 31447,
+    "mean_face_x": -5275.9639,
+    "mean_face_y": 59012.2344,
+    "mean_face_z": 108903.4375,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 72,
+    "bfm_vertex_index": 10758,
+    "mean_face_x": 17146.3027,
+    "mean_face_y": -9069.1133,
+    "mean_face_z": 105589.1953,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 73,
+    "bfm_vertex_index": 11205,
+    "mean_face_x": 32742.9062,
+    "mean_face_y": -58819.3281,
+    "mean_face_z": 91558.0156,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 74,
+    "bfm_vertex_index": 8211,
+    "mean_face_x": -203.564,
+    "mean_face_y": -27139.041,
+    "mean_face_z": 115108.0938,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 75,
+    "bfm_vertex_index": 31683,
+    "mean_face_x": 8247.4863,
+    "mean_face_y": 54886.6602,
+    "mean_face_z": 109673.5625,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 76,
+    "bfm_vertex_index": 30893,
+    "mean_face_x": -38371.3828,
+    "mean_face_y": 74695.1953,
+    "mean_face_z": 93046.5938,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 77,
+    "bfm_vertex_index": 8500,
+    "mean_face_x": 3722.3296,
+    "mean_face_y": 34687.25,
+    "mean_face_z": 108161.0703,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 78,
+    "bfm_vertex_index": 30944,
+    "mean_face_x": -30562.9805,
+    "mean_face_y": 42795.3359,
+    "mean_face_z": 103865.1797,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 79,
+    "bfm_vertex_index": 31221,
+    "mean_face_x": -15497.6318,
+    "mean_face_y": 41376.9297,
+    "mean_face_z": 107573.9297,
+    "region": "left_eye"
+  },
+  {
+    "point_id": 80,
+    "bfm_vertex_index": 34476,
+    "mean_face_x": -53026.6289,
+    "mean_face_y": -59966.4023,
+    "mean_face_z": 57709.1836,
+    "region": "lips"
+  },
+  {
+    "point_id": 81,
+    "bfm_vertex_index": 29797,
+    "mean_face_x": -68522.2266,
+    "mean_face_y": 67205.4453,
+    "mean_face_z": 49309.2383,
+    "region": "lips"
+  },
+  {
+    "point_id": 82,
+    "bfm_vertex_index": 26131,
+    "mean_face_x": 65482.332,
+    "mean_face_y": -26824.2109,
+    "mean_face_z": 44305.1719,
+    "region": "lips"
+  },
+  {
+    "point_id": 83,
+    "bfm_vertex_index": 9313,
+    "mean_face_x": 13104.2568,
+    "mean_face_y": -43967.4336,
+    "mean_face_z": 110328.5234,
+    "region": "lips"
+  },
+  {
+    "point_id": 84,
+    "bfm_vertex_index": 2887,
+    "mean_face_x": -42235.4492,
+    "mean_face_y": 8197.9863,
+    "mean_face_z": 92660.9844,
+    "region": "lips"
+  },
+  {
+    "point_id": 85,
+    "bfm_vertex_index": 17331,
+    "mean_face_x": -73233.7188,
+    "mean_face_y": -1038.8345,
+    "mean_face_z": 16071.1084,
+    "region": "lips"
+  },
+  {
+    "point_id": 86,
+    "bfm_vertex_index": 36784,
+    "mean_face_x": 34438.5547,
+    "mean_face_y": -78809.4141,
+    "mean_face_z": 61611.4336,
+    "region": "lips"
+  },
+  {
+    "point_id": 87,
+    "bfm_vertex_index": 35989,
+    "mean_face_x": -8040.2427,
+    "mean_face_y": -87055.4219,
+    "mean_face_z": 92041.2969,
+    "region": "lips"
+  },
+  {
+    "point_id": 88,
+    "bfm_vertex_index": 21470,
+    "mean_face_x": -64844.3164,
+    "mean_face_y": -15307.6318,
+    "mean_face_z": 59607.4688,
+    "region": "lips"
+  },
+  {
+    "point_id": 89,
+    "bfm_vertex_index": 14143,
+    "mean_face_x": 48155.1133,
+    "mean_face_y": -34125.8008,
+    "mean_face_z": 84633.0469,
+    "region": "lips"
+  },
+  {
+    "point_id": 90,
+    "bfm_vertex_index": 16240,
+    "mean_face_x": -77905.6094,
+    "mean_face_y": 42273.4062,
+    "mean_face_z": 13679.3682,
+    "region": "lips"
+  },
+  {
+    "point_id": 91,
+    "bfm_vertex_index": 20772,
+    "mean_face_x": -65330.5469,
+    "mean_face_y": 26723.0352,
+    "mean_face_z": 62101.8477,
+    "region": "lips"
+  },
+  {
+    "point_id": 92,
+    "bfm_vertex_index": 2680,
+    "mean_face_x": -46461.7969,
+    "mean_face_y": -35722.2773,
+    "mean_face_z": 87430.1641,
+    "region": "lips"
+  },
+  {
+    "point_id": 93,
+    "bfm_vertex_index": 37709,
+    "mean_face_x": 53925.0078,
+    "mean_face_y": -60356.793,
+    "mean_face_z": 38369.1328,
+    "region": "lips"
+  },
+  {
+    "point_id": 94,
+    "bfm_vertex_index": 36449,
+    "mean_face_x": 24938.1602,
+    "mean_face_y": -74214.7344,
+    "mean_face_z": 94981.3359,
+    "region": "lips"
+  },
+  {
+    "point_id": 95,
+    "bfm_vertex_index": 17509,
+    "mean_face_x": -63584.6016,
+    "mean_face_y": -39349.0273,
+    "mean_face_z": 32645.8457,
+    "region": "lips"
+  },
+  {
+    "point_id": 96,
+    "bfm_vertex_index": 7043,
+    "mean_face_x": -15476.4033,
+    "mean_face_y": -57216.6406,
+    "mean_face_z": 104842.0312,
+    "region": "lips"
+  },
+  {
+    "point_id": 97,
+    "bfm_vertex_index": 35521,
+    "mean_face_x": -31015.4082,
+    "mean_face_y": -80572.7344,
+    "mean_face_z": 68040.3359,
+    "region": "lips"
+  },
+  {
+    "point_id": 98,
+    "bfm_vertex_index": 18463,
+    "mean_face_x": -71996.2344,
+    "mean_face_y": 22521.4492,
+    "mean_face_z": 33853.4062,
+    "region": "lips"
+  },
+  {
+    "point_id": 99,
+    "bfm_vertex_index": 37592,
+    "mean_face_x": 51654.1289,
+    "mean_face_y": -56613.3945,
+    "mean_face_z": 66584.0469,
+    "region": "lips"
+  },
+  {
+    "point_id": 100,
+    "bfm_vertex_index": 35270,
+    "mean_face_x": -37762.7383,
+    "mean_face_y": -61405.2266,
+    "mean_face_z": 85800.0078,
+    "region": "lips"
+  },
+  {
+    "point_id": 101,
+    "bfm_vertex_index": 22735,
+    "mean_face_x": -61597.8672,
+    "mean_face_y": 4678.647,
+    "mean_face_z": 75629.4844,
+    "region": "lips"
+  },
+  {
+    "point_id": 102,
+    "bfm_vertex_index": 36134,
+    "mean_face_x": 4100.0371,
+    "mean_face_y": -72998.4844,
+    "mean_face_z": 108923.6406,
+    "region": "lips"
+  },
+  {
+    "point_id": 103,
+    "bfm_vertex_index": 11454,
+    "mean_face_x": 32744.2695,
+    "mean_face_y": -50866.1562,
+    "mean_face_z": 94372.1406,
+    "region": "lips"
+  },
+  {
+    "point_id": 104,
+    "bfm_vertex_index": 19520,
+    "mean_face_x": -70263.9062,
+    "mean_face_y": -1053.2725,
+    "mean_face_z": 40531.8477,
+    "region": "lips"
+  },
+  {
+    "point_id": 105,
+    "bfm_vertex_index": 22533,
+    "mean_face_x": -58563.6953,
+    "mean_face_y": -37727.418,
+    "mean_face_z": 66520.2812,
+    "region": "lips"
+  },
+  {
+    "point_id": 106,
+    "bfm_vertex_index": 17404,
+    "mean_face_x": -72430.4375,
+    "mean_face_y": 46674.3359,
+    "mean_face_z": 37178.6914,
+    "region": "lips"
+  },
+  {
+    "point_id": 107,
+    "bfm_vertex_index": 23284,
+    "mean_face_x": 60772.4688,
+    "mean_face_y": -22582.3926,
+    "mean_face_z": 67712.9609,
+    "region": "lips"
+  },
+  {
+    "point_id": 108,
+    "bfm_vertex_index": 536,
+    "mean_face_x": -52959.2148,
+    "mean_face_y": 26412.3809,
+    "mean_face_z": 82101.2812,
+    "region": "lips"
+  },
+  {
+    "point_id": 109,
+    "bfm_vertex_index": 1879,
+    "mean_face_x": -51926.7305,
+    "mean_face_y": -12693.5039,
+    "mean_face_z": 88290.2344,
+    "region": "lips"
+  },
+  {
+    "point_id": 110,
+    "bfm_vertex_index": 36281,
+    "mean_face_x": 12242.1426,
+    "mean_face_y": -87998.7969,
+    "mean_face_z": 81136.4297,
+    "region": "lips"
+  },
+  {
+    "point_id": 111,
+    "bfm_vertex_index": 34452,
+    "mean_face_x": -53793.8203,
+    "mean_face_y": -60569.9805,
+    "mean_face_z": 34814.6016,
+    "region": "lips"
+  },
+  {
+    "point_id": 112,
+    "bfm_vertex_index": 28854,
+    "mean_face_x": 62161.8789,
+    "mean_face_y": -42018.4219,
+    "mean_face_z": 29602.4805,
+    "region": "lips"
+  },
+  {
+    "point_id": 113,
+    "bfm_vertex_index": 36859,
+    "mean_face_x": 38700.5938,
+    "mean_face_y": -67915.6328,
+    "mean_face_z": 79468.4453,
+    "region": "lips"
+  },
+  {
+    "point_id": 114,
+    "bfm_vertex_index": 17105,
+    "mean_face_x": -76716.6641,
+    "mean_face_y": 19961.5391,
+    "mean_face_z": 13626.4062,
+    "region": "lips"
+  },
+  {
+    "point_id": 115,
+    "bfm_vertex_index": 25771,
+    "mean_face_x": 60691.4727,
+    "mean_face_y": -45407.625,
+    "mean_face_z": 52053.6367,
+    "region": "lips"
+  },
+  {
+    "point_id": 116,
+    "bfm_vertex_index": 19203,
+    "mean_face_x": -66447.9688,
+    "mean_face_y": 45765.5781,
+    "mean_face_z": 56113.6562,
+    "region": "lips"
+  },
+  {
+    "point_id": 117,
+    "bfm_vertex_index": 20927,
+    "mean_face_x": -68373.125,
+    "mean_face_y": 7463.1567,
+    "mean_face_z": 57716.3711,
+    "region": "lips"
+  },
+  {
+    "point_id": 118,
+    "bfm_vertex_index": 35161,
+    "mean_face_x": -41282.4492,
+    "mean_face_y": -74293.3359,
+    "mean_face_z": 53032.7266,
+    "region": "lips"
+  },
+  {
+    "point_id": 119,
+    "bfm_vertex_index": 20203,
+    "mean_face_x": -64658.9453,
+    "mean_face_y": -31059.9336,
+    "mean_face_z": 49395.875,
+    "region": "lips"
+  },
+  {
+    "point_id": 120,
+    "bfm_vertex_index": 34501,
+    "mean_face_x": -49935.4336,
+    "mean_face_y": -52204.3164,
+    "mean_face_z": 74285.0625,
+    "region": "lips"
+  },
+  {
+    "point_id": 121,
+    "bfm_vertex_index": 7873,
+    "mean_face_x": -5039.876,
+    "mean_face_y": -44849.6562,
+    "mean_face_z": 114085.5547,
+    "region": "lips"
+  },
+  {
+    "point_id": 122,
+    "bfm_vertex_index": 37258,
+    "mean_face_x": 46860.1914,
+    "mean_face_y": -68614.8516,
+    "mean_face_z": 53078.0547,
+    "region": "lips"
+  },
+  {
+    "point_id": 123,
+    "bfm_vertex_index": 35876,
+    "mean_face_x": -16137.1211,
+    "mean_face_y": -75179.9766,
+    "mean_face_z": 103435.4219,
+    "region": "lips"
+  },
+  {
+    "point_id": 124,
+    "bfm_vertex_index": 9565,
+    "mean_face_x": 17096.166,
+    "mean_face_y": -59837.168,
+    "mean_face_z": 103220.25,
+    "region": "lips"
+  },
+  {
+    "point_id": 125,
+    "bfm_vertex_index": 22923,
+    "mean_face_x": 56640.0664,
+    "mean_face_y": -39779.9922,
+    "mean_face_z": 68515.3828,
+    "region": "lips"
+  },
+  {
+    "point_id": 126,
+    "bfm_vertex_index": 472,
+    "mean_face_x": -58743.4922,
+    "mean_face_y": -21773.6191,
+    "mean_face_z": 74845.7266,
+    "region": "lips"
+  },
+  {
+    "point_id": 127,
+    "bfm_vertex_index": 35106,
+    "mean_face_x": -43211.7734,
+    "mean_face_y": -68401.1406,
+    "mean_face_z": 70792.0312,
+    "region": "lips"
+  },
+  {
+    "point_id": 128,
+    "bfm_vertex_index": 13264,
+    "mean_face_x": 45051.0547,
+    "mean_face_y": -51073.3281,
+    "mean_face_z": 81708.5859,
+    "region": "lips"
+  },
+  {
+    "point_id": 129,
+    "bfm_vertex_index": 19196,
+    "mean_face_x": -60666.0273,
+    "mean_face_y": -48175.6602,
+    "mean_face_z": 47145.8594,
+    "region": "lips"
+  },
+  {
+    "point_id": 130,
+    "bfm_vertex_index": 36194,
+    "mean_face_x": 8355.085,
+    "mean_face_y": -85132.0703,
+    "mean_face_z": 97501.9219,
+    "region": "lips"
+  },
+  {
+    "point_id": 131,
+    "bfm_vertex_index": 36542,
+    "mean_face_x": 27343.5938,
+    "mean_face_y": -81119.0234,
+    "mean_face_z": 78727.5703,
+    "region": "lips"
+  },
+  {
+    "point_id": 132,
+    "bfm_vertex_index": 19093,
+    "mean_face_x": -69295.6484,
+    "mean_face_y": 32184.4824,
+    "mean_face_z": 46572.7148,
+    "region": "lips"
+  },
+  {
+    "point_id": 133,
+    "bfm_vertex_index": 19796,
+    "mean_face_x": -67474.6641,
+    "mean_face_y": -16330.4053,
+    "mean_face_z": 43868.5781,
+    "region": "lips"
+  },
+  {
+    "point_id": 134,
+    "bfm_vertex_index": 8243,
+    "mean_face_x": -160.8313,
+    "mean_face_y": -58114.8359,
+    "mean_face_z": 107655.6484,
+    "region": "lips"
+  },
+  {
+    "point_id": 135,
+    "bfm_vertex_index": 18351,
+    "mean_face_x": -71443.4531,
+    "mean_face_y": 8486.1592,
+    "mean_face_z": 27562.127,
+    "region": "lips"
+  },
+  {
+    "point_id": 136,
+    "bfm_vertex_index": 29387,
+    "mean_face_x": -72619.7344,
+    "mean_face_y": 61987.0273,
+    "mean_face_z": 35909.6719,
+    "region": "lips"
+  },
+  {
+    "point_id": 137,
+    "bfm_vertex_index": 10537,
+    "mean_face_x": 22934.209,
+    "mean_face_y": -40797.8281,
+    "mean_face_z": 99583.4531,
+    "region": "lips"
+  },
+  {
+    "point_id": 138,
+    "bfm_vertex_index": 17186,
+    "mean_face_x": -74553.8594,
+    "mean_face_y": 35730.418,
+    "mean_face_z": 27485.5098,
+    "region": "lips"
+  },
+  {
+    "point_id": 139,
+    "bfm_vertex_index": 19756,
+    "mean_face_x": -70459.0,
+    "mean_face_y": 17293.4844,
+    "mean_face_z": 47171.418,
+    "region": "lips"
+  },
+  {
+    "point_id": 140,
+    "bfm_vertex_index": 26984,
+    "mean_face_x": 70828.0547,
+    "mean_face_y": 16203.2031,
+    "mean_face_z": 34391.293,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 141,
+    "bfm_vertex_index": 36934,
+    "mean_face_x": 40323.3008,
+    "mean_face_y": -72900.5078,
+    "mean_face_z": 67518.3359,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 142,
+    "bfm_vertex_index": 14615,
+    "mean_face_x": 51149.5469,
+    "mean_face_y": 3399.5901,
+    "mean_face_z": 88163.9375,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 143,
+    "bfm_vertex_index": 28343,
+    "mean_face_x": 63530.4062,
+    "mean_face_y": -38287.2812,
+    "mean_face_z": 32099.9434,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 144,
+    "bfm_vertex_index": 25003,
+    "mean_face_x": 60628.5234,
+    "mean_face_y": 43277.1797,
+    "mean_face_z": 69049.9609,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 145,
+    "bfm_vertex_index": 13501,
+    "mean_face_x": 44534.6406,
+    "mean_face_y": -37410.5391,
+    "mean_face_z": 88095.7578,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 146,
+    "bfm_vertex_index": 24434,
+    "mean_face_x": 64876.2344,
+    "mean_face_y": -12975.2236,
+    "mean_face_z": 58383.0117,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 147,
+    "bfm_vertex_index": 24485,
+    "mean_face_x": 57615.7578,
+    "mean_face_y": -46912.0273,
+    "mean_face_z": 61473.5117,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 148,
+    "bfm_vertex_index": 24399,
+    "mean_face_x": 65130.2812,
+    "mean_face_y": 15548.3555,
+    "mean_face_z": 63770.5547,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 149,
+    "bfm_vertex_index": 37622,
+    "mean_face_x": 52730.3984,
+    "mean_face_y": -62062.8281,
+    "mean_face_z": 39952.1367,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 150,
+    "bfm_vertex_index": 27083,
+    "mean_face_x": 68228.0703,
+    "mean_face_y": 39574.3164,
+    "mean_face_z": 45252.7695,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 151,
+    "bfm_vertex_index": 15093,
+    "mean_face_x": 50065.2773,
+    "mean_face_y": 27693.3535,
+    "mean_face_z": 84678.2188,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 152,
+    "bfm_vertex_index": 26621,
+    "mean_face_x": 69000.6875,
+    "mean_face_y": -6292.2373,
+    "mean_face_z": 36394.4375,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 153,
+    "bfm_vertex_index": 15547,
+    "mean_face_x": 56537.0234,
+    "mean_face_y": -21264.6543,
+    "mean_face_z": 77740.5312,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 154,
+    "bfm_vertex_index": 36946,
+    "mean_face_x": 39663.3867,
+    "mean_face_y": -58714.7031,
+    "mean_face_z": 84444.2891,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 155,
+    "bfm_vertex_index": 25363,
+    "mean_face_x": 63875.4297,
+    "mean_face_y": -31459.0391,
+    "mean_face_z": 51200.0273,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 156,
+    "bfm_vertex_index": 23129,
+    "mean_face_x": 62229.7227,
+    "mean_face_y": -1372.3678,
+    "mean_face_z": 73423.2656,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 157,
+    "bfm_vertex_index": 25318,
+    "mean_face_x": 68772.5547,
+    "mean_face_y": 3645.1169,
+    "mean_face_z": 51012.4961,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 158,
+    "bfm_vertex_index": 37480,
+    "mean_face_x": 51139.1367,
+    "mean_face_y": -62584.5312,
+    "mean_face_z": 58050.332,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 159,
+    "bfm_vertex_index": 25940,
+    "mean_face_x": 68354.3516,
+    "mean_face_y": 23174.1484,
+    "mean_face_z": 49402.5078,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 160,
+    "bfm_vertex_index": 14424,
+    "mean_face_x": 49927.8047,
+    "mean_face_y": -47549.707,
+    "mean_face_z": 76249.7109,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 161,
+    "bfm_vertex_index": 26936,
+    "mean_face_x": 60467.3398,
+    "mean_face_y": -48492.3555,
+    "mean_face_z": 45314.7578,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 162,
+    "bfm_vertex_index": 16149,
+    "mean_face_x": 56654.6094,
+    "mean_face_y": 14385.1289,
+    "mean_face_z": 77823.0312,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 163,
+    "bfm_vertex_index": 23297,
+    "mean_face_x": 59470.2031,
+    "mean_face_y": -31650.0762,
+    "mean_face_z": 66314.7969,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 164,
+    "bfm_vertex_index": 23992,
+    "mean_face_x": 60270.3125,
+    "mean_face_y": 27866.2227,
+    "mean_face_z": 71300.3047,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 165,
+    "bfm_vertex_index": 38142,
+    "mean_face_x": 58332.1211,
+    "mean_face_y": -51769.1406,
+    "mean_face_z": 30393.7109,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 166,
+    "bfm_vertex_index": 25536,
+    "mean_face_x": 64767.1641,
+    "mean_face_y": 34150.1875,
+    "mean_face_z": 58721.0195,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 167,
+    "bfm_vertex_index": 37274,
+    "mean_face_x": 47219.1719,
+    "mean_face_y": -60822.4375,
+    "mean_face_z": 71510.8594,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 168,
+    "bfm_vertex_index": 37081,
+    "mean_face_x": 42689.7734,
+    "mean_face_y": -72751.0,
+    "mean_face_z": 53237.6836,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 169,
+    "bfm_vertex_index": 27484,
+    "mean_face_x": 70824.7891,
+    "mean_face_y": 29892.7988,
+    "mean_face_z": 35147.0195,
+    "region": "right_cheek"
+  },
+  {
+    "point_id": 170,
+    "bfm_vertex_index": 20058,
+    "mean_face_x": -66675.3359,
+    "mean_face_y": -19544.7656,
+    "mean_face_z": 46499.7852,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 171,
+    "bfm_vertex_index": 33879,
+    "mean_face_x": -59176.0469,
+    "mean_face_y": -49732.0977,
+    "mean_face_z": 27500.25,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 172,
+    "bfm_vertex_index": 17459,
+    "mean_face_x": -72585.6016,
+    "mean_face_y": -2400.51,
+    "mean_face_z": 17851.0508,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 173,
+    "bfm_vertex_index": 21132,
+    "mean_face_x": -58044.9023,
+    "mean_face_y": -47600.6445,
+    "mean_face_z": 60356.3867,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 174,
+    "bfm_vertex_index": 19765,
+    "mean_face_x": -70982.6641,
+    "mean_face_y": 9937.3164,
+    "mean_face_z": 45052.5781,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 175,
+    "bfm_vertex_index": 210,
+    "mean_face_x": -60209.0781,
+    "mean_face_y": -18418.2246,
+    "mean_face_z": 73458.5938,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 176,
+    "bfm_vertex_index": 16353,
+    "mean_face_x": -65529.8594,
+    "mean_face_y": -26516.1074,
+    "mean_face_z": 19645.7812,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 177,
+    "bfm_vertex_index": 21708,
+    "mean_face_x": -66105.7891,
+    "mean_face_y": 995.3085,
+    "mean_face_z": 64833.5078,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 178,
+    "bfm_vertex_index": 19054,
+    "mean_face_x": -63865.7656,
+    "mean_face_y": -38648.1992,
+    "mean_face_z": 42976.1094,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 179,
+    "bfm_vertex_index": 19010,
+    "mean_face_x": -69983.1719,
+    "mean_face_y": -5939.7915,
+    "mean_face_z": 35098.625,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 180,
+    "bfm_vertex_index": 21619,
+    "mean_face_x": -62419.9258,
+    "mean_face_y": -30069.2578,
+    "mean_face_z": 60097.9531,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 181,
+    "bfm_vertex_index": 33971,
+    "mean_face_x": -58433.1172,
+    "mean_face_y": -53655.3438,
+    "mean_face_z": 43968.582,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 182,
+    "bfm_vertex_index": 20426,
+    "mean_face_x": -68490.2031,
+    "mean_face_y": -4628.6289,
+    "mean_face_z": 50030.3945,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 183,
+    "bfm_vertex_index": 21596,
+    "mean_face_x": -64920.6602,
+    "mean_face_y": -13059.5723,
+    "mean_face_z": 61092.6523,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 184,
+    "bfm_vertex_index": 18393,
+    "mean_face_x": -66548.8906,
+    "mean_face_y": -27089.4219,
+    "mean_face_z": 34408.0391,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 185,
+    "bfm_vertex_index": 18610,
+    "mean_face_x": -71463.3828,
+    "mean_face_y": 6922.3901,
+    "mean_face_z": 30605.0156,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 186,
+    "bfm_vertex_index": 17729,
+    "mean_face_x": -68970.5391,
+    "mean_face_y": -14030.9854,
+    "mean_face_z": 23586.1426,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 187,
+    "bfm_vertex_index": 16691,
+    "mean_face_x": -63334.5,
+    "mean_face_y": -37563.3242,
+    "mean_face_z": 25975.8555,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 188,
+    "bfm_vertex_index": 110,
+    "mean_face_x": -57387.8398,
+    "mean_face_y": -38087.8242,
+    "mean_face_z": 68941.125,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 189,
+    "bfm_vertex_index": 22492,
+    "mean_face_x": -63240.8281,
+    "mean_face_y": -8034.8145,
+    "mean_face_z": 70966.9219,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 190,
+    "bfm_vertex_index": 20602,
+    "mean_face_x": -62194.6211,
+    "mean_face_y": -39256.25,
+    "mean_face_z": 54049.6797,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 191,
+    "bfm_vertex_index": 20799,
+    "mean_face_x": -68752.4219,
+    "mean_face_y": 6763.334,
+    "mean_face_z": 56129.0977,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 192,
+    "bfm_vertex_index": 20201,
+    "mean_face_x": -64919.6367,
+    "mean_face_y": -29682.8555,
+    "mean_face_z": 49127.8672,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 193,
+    "bfm_vertex_index": 18894,
+    "mean_face_x": -68322.9453,
+    "mean_face_y": -16746.4512,
+    "mean_face_z": 35655.125,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 194,
+    "bfm_vertex_index": 17776,
+    "mean_face_x": -61380.3711,
+    "mean_face_y": -46834.125,
+    "mean_face_z": 36985.2578,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 195,
+    "bfm_vertex_index": 94,
+    "mean_face_x": -59229.2852,
+    "mean_face_y": -27963.5781,
+    "mean_face_z": 70229.9141,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 196,
+    "bfm_vertex_index": 21091,
+    "mean_face_x": -64778.5352,
+    "mean_face_y": -21066.1953,
+    "mean_face_z": 55779.0898,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 197,
+    "bfm_vertex_index": 19647,
+    "mean_face_x": -70374.2656,
+    "mean_face_y": 536.8704,
+    "mean_face_z": 42021.3906,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 198,
+    "bfm_vertex_index": 22122,
+    "mean_face_x": -62503.6562,
+    "mean_face_y": -21354.7422,
+    "mean_face_z": 64836.8477,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 199,
+    "bfm_vertex_index": 19451,
+    "mean_face_x": -61351.5312,
+    "mean_face_y": -45961.6094,
+    "mean_face_z": 48012.4023,
+    "region": "left_cheek"
+  },
+  {
+    "point_id": 200,
+    "bfm_vertex_index": 16913,
+    "mean_face_x": -69148.1797,
+    "mean_face_y": -17441.541,
+    "mean_face_z": 17999.2969,
+    "region": "global"
+  },
+  {
+    "point_id": 201,
+    "bfm_vertex_index": 32440,
+    "mean_face_x": 51218.5977,
+    "mean_face_y": 80314.3203,
+    "mean_face_z": 74123.3828,
+    "region": "global"
+  },
+  {
+    "point_id": 202,
+    "bfm_vertex_index": 37818,
+    "mean_face_x": 54614.4258,
+    "mean_face_y": -55239.1953,
+    "mean_face_z": 60607.3477,
+    "region": "global"
+  },
+  {
+    "point_id": 203,
+    "bfm_vertex_index": 30441,
+    "mean_face_x": -56445.582,
+    "mean_face_y": 77493.625,
+    "mean_face_z": 70107.5625,
+    "region": "global"
+  },
+  {
+    "point_id": 204,
+    "bfm_vertex_index": 7947,
+    "mean_face_x": -4346.4663,
+    "mean_face_y": 2048.7632,
+    "mean_face_z": 128903.1797,
+    "region": "global"
+  },
+  {
+    "point_id": 205,
+    "bfm_vertex_index": 35477,
+    "mean_face_x": -33682.5781,
+    "mean_face_y": -73551.9688,
+    "mean_face_z": 82278.2266,
+    "region": "global"
+  },
+  {
+    "point_id": 206,
+    "bfm_vertex_index": 28533,
+    "mean_face_x": 74578.7422,
+    "mean_face_y": 19332.6914,
+    "mean_face_z": 14826.9922,
+    "region": "global"
+  },
+  {
+    "point_id": 207,
+    "bfm_vertex_index": 14864,
+    "mean_face_x": 50840.4961,
+    "mean_face_y": 10621.915,
+    "mean_face_z": 85333.1406,
+    "region": "global"
+  },
+  {
+    "point_id": 208,
+    "bfm_vertex_index": 825,
+    "mean_face_x": -56477.5391,
+    "mean_face_y": 6975.7261,
+    "mean_face_z": 82462.2188,
+    "region": "global"
+  },
+  {
+    "point_id": 209,
+    "bfm_vertex_index": 31470,
+    "mean_face_x": -3936.3337,
+    "mean_face_y": 65207.6289,
+    "mean_face_z": 107243.4062,
+    "region": "global"
+  },
+  {
+    "point_id": 210,
+    "bfm_vertex_index": 16290,
+    "mean_face_x": -76797.2109,
+    "mean_face_y": 46256.0469,
+    "mean_face_z": 18259.5312,
+    "region": "global"
+  },
+  {
+    "point_id": 211,
+    "bfm_vertex_index": 9559,
+    "mean_face_x": 15984.1934,
+    "mean_face_y": -51041.0078,
+    "mean_face_z": 106550.4062,
+    "region": "global"
+  },
+  {
+    "point_id": 212,
+    "bfm_vertex_index": 34546,
+    "mean_face_x": -52553.5859,
+    "mean_face_y": -62400.832,
+    "mean_face_z": 36346.918,
+    "region": "global"
+  },
+  {
+    "point_id": 213,
+    "bfm_vertex_index": 29359,
+    "mean_face_x": 64206.6875,
+    "mean_face_y": -29322.707,
+    "mean_face_z": 19946.8242,
+    "region": "global"
+  },
+  {
+    "point_id": 214,
+    "bfm_vertex_index": 36311,
+    "mean_face_x": 13322.7549,
+    "mean_face_y": -88713.6641,
+    "mean_face_z": 75090.3672,
+    "region": "global"
+  },
+  {
+    "point_id": 215,
+    "bfm_vertex_index": 4603,
+    "mean_face_x": -30106.9395,
+    "mean_face_y": -28973.9297,
+    "mean_face_z": 102057.4609,
+    "region": "global"
+  },
+  {
+    "point_id": 216,
+    "bfm_vertex_index": 33612,
+    "mean_face_x": 71006.8047,
+    "mean_face_y": 61840.1328,
+    "mean_face_z": 35817.6602,
+    "region": "global"
+  },
+  {
+    "point_id": 217,
+    "bfm_vertex_index": 6340,
+    "mean_face_x": -17398.9473,
+    "mean_face_y": 25356.2266,
+    "mean_face_z": 93211.9766,
+    "region": "global"
+  },
+  {
+    "point_id": 218,
+    "bfm_vertex_index": 32245,
+    "mean_face_x": 36533.2695,
+    "mean_face_y": 49101.8359,
+    "mean_face_z": 101262.9375,
+    "region": "global"
+  },
+  {
+    "point_id": 219,
+    "bfm_vertex_index": 104,
+    "mean_face_x": -58131.2188,
+    "mean_face_y": -34536.6445,
+    "mean_face_z": 69203.9609,
+    "region": "global"
+  },
+  {
+    "point_id": 220,
+    "bfm_vertex_index": 19726,
+    "mean_face_x": -66092.9375,
+    "mean_face_y": 38867.0664,
+    "mean_face_z": 57303.3711,
+    "region": "global"
+  },
+  {
+    "point_id": 221,
+    "bfm_vertex_index": 25324,
+    "mean_face_x": 68219.3672,
+    "mean_face_y": -1476.7758,
+    "mean_face_z": 50212.6445,
+    "region": "global"
+  },
+  {
+    "point_id": 222,
+    "bfm_vertex_index": 13619,
+    "mean_face_x": 44940.7344,
+    "mean_face_y": -28876.7129,
+    "mean_face_z": 90397.9531,
+    "region": "global"
+  },
+  {
+    "point_id": 223,
+    "bfm_vertex_index": 30366,
+    "mean_face_x": -49959.9883,
+    "mean_face_y": 46347.7656,
+    "mean_face_z": 91711.4844,
+    "region": "global"
+  },
+  {
+    "point_id": 224,
+    "bfm_vertex_index": 25133,
+    "mean_face_x": 61126.8203,
+    "mean_face_y": 43199.6484,
+    "mean_face_z": 67734.1953,
+    "region": "global"
+  },
+  {
+    "point_id": 225,
+    "bfm_vertex_index": 10476,
+    "mean_face_x": 16916.5352,
+    "mean_face_y": 12016.834,
+    "mean_face_z": 100226.8828,
+    "region": "global"
+  },
+  {
+    "point_id": 226,
+    "bfm_vertex_index": 20159,
+    "mean_face_x": -70048.1406,
+    "mean_face_y": 3287.7996,
+    "mean_face_z": 48041.9023,
+    "region": "global"
+  },
+  {
+    "point_id": 227,
+    "bfm_vertex_index": 31853,
+    "mean_face_x": 23250.1738,
+    "mean_face_y": 87240.7969,
+    "mean_face_z": 95741.8438,
+    "region": "global"
+  },
+  {
+    "point_id": 228,
+    "bfm_vertex_index": 36008,
+    "mean_face_x": -6480.064,
+    "mean_face_y": -80676.9688,
+    "mean_face_z": 104509.3438,
+    "region": "global"
+  },
+  {
+    "point_id": 229,
+    "bfm_vertex_index": 31087,
+    "mean_face_x": -30075.1113,
+    "mean_face_y": 85743.0078,
+    "mean_face_z": 94650.1172,
+    "region": "global"
+  },
+  {
+    "point_id": 230,
+    "bfm_vertex_index": 36761,
+    "mean_face_x": 35607.1953,
+    "mean_face_y": -66238.5469,
+    "mean_face_z": 85236.1797,
+    "region": "global"
+  },
+  {
+    "point_id": 231,
+    "bfm_vertex_index": 10007,
+    "mean_face_x": 11883.2725,
+    "mean_face_y": -18983.6387,
+    "mean_face_z": 109216.9609,
+    "region": "global"
+  },
+  {
+    "point_id": 232,
+    "bfm_vertex_index": 17318,
+    "mean_face_x": -74094.0078,
+    "mean_face_y": 14363.8701,
+    "mean_face_z": 14613.4004,
+    "region": "global"
+  },
+  {
+    "point_id": 233,
+    "bfm_vertex_index": 29710,
+    "mean_face_x": -69734.1875,
+    "mean_face_y": 66434.3828,
+    "mean_face_z": 45752.8516,
+    "region": "global"
+  },
+  {
+    "point_id": 234,
+    "bfm_vertex_index": 26837,
+    "mean_face_x": 69148.1484,
+    "mean_face_y": 29744.4629,
+    "mean_face_z": 42338.4883,
+    "region": "global"
+  },
+  {
+    "point_id": 235,
+    "bfm_vertex_index": 23548,
+    "mean_face_x": 60944.8359,
+    "mean_face_y": -26650.3555,
+    "mean_face_z": 64940.2734,
+    "region": "global"
+  },
+  {
+    "point_id": 236,
+    "bfm_vertex_index": 4057,
+    "mean_face_x": -32941.5117,
+    "mean_face_y": 32.3871,
+    "mean_face_z": 98775.4766,
+    "region": "global"
+  },
+  {
+    "point_id": 237,
+    "bfm_vertex_index": 8615,
+    "mean_face_x": 4721.0874,
+    "mean_face_y": 37355.9102,
+    "mean_face_z": 108384.8438,
+    "region": "global"
+  },
+  {
+    "point_id": 238,
+    "bfm_vertex_index": 18920,
+    "mean_face_x": -64795.8438,
+    "mean_face_y": -35010.6328,
+    "mean_face_z": 40879.6367,
+    "region": "global"
+  },
+  {
+    "point_id": 239,
+    "bfm_vertex_index": 7160,
+    "mean_face_x": -13766.7783,
+    "mean_face_y": -53068.2305,
+    "mean_face_z": 107358.2734,
+    "region": "global"
+  },
+  {
+    "point_id": 240,
+    "bfm_vertex_index": 37991,
+    "mean_face_x": 57033.5586,
+    "mean_face_y": -54619.5039,
+    "mean_face_z": 32069.5938,
+    "region": "global"
+  },
+  {
+    "point_id": 241,
+    "bfm_vertex_index": 36847,
+    "mean_face_x": 36387.0508,
+    "mean_face_y": -77577.2734,
+    "mean_face_z": 59585.9102,
+    "region": "global"
+  },
+  {
+    "point_id": 242,
+    "bfm_vertex_index": 34656,
+    "mean_face_x": -50446.7695,
+    "mean_face_y": -61242.3555,
+    "mean_face_z": 63898.6602,
+    "region": "global"
+  },
+  {
+    "point_id": 243,
+    "bfm_vertex_index": 31024,
+    "mean_face_x": -26909.6367,
+    "mean_face_y": 47678.7969,
+    "mean_face_z": 106489.3438,
+    "region": "global"
+  },
+  {
+    "point_id": 244,
+    "bfm_vertex_index": 3600,
+    "mean_face_x": -42758.8125,
+    "mean_face_y": -48494.1875,
+    "mean_face_z": 87129.0625,
+    "region": "global"
+  },
+  {
+    "point_id": 245,
+    "bfm_vertex_index": 35895,
+    "mean_face_x": -13672.4883,
+    "mean_face_y": -88789.2578,
+    "mean_face_z": 75095.5938,
+    "region": "global"
+  },
+  {
+    "point_id": 246,
+    "bfm_vertex_index": 2143,
+    "mean_face_x": -50060.8945,
+    "mean_face_y": -18218.5703,
+    "mean_face_z": 89106.7734,
+    "region": "global"
+  },
+  {
+    "point_id": 247,
+    "bfm_vertex_index": 12690,
+    "mean_face_x": 36328.9531,
+    "mean_face_y": -6026.4512,
+    "mean_face_z": 98480.9766,
+    "region": "global"
+  },
+  {
+    "point_id": 248,
+    "bfm_vertex_index": 27651,
+    "mean_face_x": 69863.9141,
+    "mean_face_y": -3914.7117,
+    "mean_face_z": 24617.752,
+    "region": "global"
+  },
+  {
+    "point_id": 249,
+    "bfm_vertex_index": 29358,
+    "mean_face_x": 75826.4219,
+    "mean_face_y": 44353.3359,
+    "mean_face_z": 17476.7285,
+    "region": "global"
+  },
+  {
+    "point_id": 250,
+    "bfm_vertex_index": 36321,
+    "mean_face_x": 18014.7891,
+    "mean_face_y": -79428.8594,
+    "mean_face_z": 99053.4844,
+    "region": "global"
+  },
+  {
+    "point_id": 251,
+    "bfm_vertex_index": 18327,
+    "mean_face_x": -71860.0625,
+    "mean_face_y": 28148.4258,
+    "mean_face_z": 35433.7969,
+    "region": "global"
+  },
+  {
+    "point_id": 252,
+    "bfm_vertex_index": 24395,
+    "mean_face_x": 64412.5977,
+    "mean_face_y": 18411.7891,
+    "mean_face_z": 64528.875,
+    "region": "global"
+  },
+  {
+    "point_id": 253,
+    "bfm_vertex_index": 6634,
+    "mean_face_x": -12940.5244,
+    "mean_face_y": -14188.1816,
+    "mean_face_z": 111942.5938,
+    "region": "global"
+  },
+  {
+    "point_id": 254,
+    "bfm_vertex_index": 31511,
+    "mean_face_x": -914.1716,
+    "mean_face_y": 88500.9922,
+    "mean_face_z": 100079.6797,
+    "region": "global"
+  },
+  {
+    "point_id": 255,
+    "bfm_vertex_index": 14307,
+    "mean_face_x": 51556.0586,
+    "mean_face_y": 34906.8711,
+    "mean_face_z": 88539.8984,
+    "region": "global"
+  },
+  {
+    "point_id": 256,
+    "bfm_vertex_index": 22109,
+    "mean_face_x": -64044.6367,
+    "mean_face_y": -11106.3867,
+    "mean_face_z": 66505.9453,
+    "region": "global"
+  },
+  {
+    "point_id": 257,
+    "bfm_vertex_index": 33050,
+    "mean_face_x": 63470.9219,
+    "mean_face_y": 66772.7266,
+    "mean_face_z": 58539.8008,
+    "region": "global"
+  },
+  {
+    "point_id": 258,
+    "bfm_vertex_index": 2863,
+    "mean_face_x": -41314.0391,
+    "mean_face_y": 24362.543,
+    "mean_face_z": 89534.3516,
+    "region": "global"
+  },
+  {
+    "point_id": 259,
+    "bfm_vertex_index": 32693,
+    "mean_face_x": 51668.0195,
+    "mean_face_y": 58533.4336,
+    "mean_face_z": 83064.0859,
+    "region": "global"
+  },
+  {
+    "point_id": 260,
+    "bfm_vertex_index": 35399,
+    "mean_face_x": -34623.2188,
+    "mean_face_y": -79080.6016,
+    "mean_face_z": 59427.6836,
+    "region": "global"
+  },
+  {
+    "point_id": 261,
+    "bfm_vertex_index": 26531,
+    "mean_face_x": 64148.1406,
+    "mean_face_y": -35607.3828,
+    "mean_face_z": 43667.4531,
+    "region": "global"
+  },
+  {
+    "point_id": 262,
+    "bfm_vertex_index": 23133,
+    "mean_face_x": 62285.9375,
+    "mean_face_y": -4785.9438,
+    "mean_face_z": 72661.4922,
+    "region": "global"
+  },
+  {
+    "point_id": 263,
+    "bfm_vertex_index": 6490,
+    "mean_face_x": -13565.0459,
+    "mean_face_y": 8507.8711,
+    "mean_face_z": 108184.125,
+    "region": "global"
+  },
+  {
+    "point_id": 264,
+    "bfm_vertex_index": 7858,
+    "mean_face_x": -3382.1223,
+    "mean_face_y": -34663.1133,
+    "mean_face_z": 116064.0781,
+    "region": "global"
+  },
+  {
+    "point_id": 265,
+    "bfm_vertex_index": 31865,
+    "mean_face_x": 19927.7168,
+    "mean_face_y": 64391.5625,
+    "mean_face_z": 104822.3594,
+    "region": "global"
+  },
+  {
+    "point_id": 266,
+    "bfm_vertex_index": 30714,
+    "mean_face_x": -44366.9766,
+    "mean_face_y": 68225.8516,
+    "mean_face_z": 89695.1875,
+    "region": "global"
+  },
+  {
+    "point_id": 267,
+    "bfm_vertex_index": 29941,
+    "mean_face_x": -59490.9023,
+    "mean_face_y": 53993.0273,
+    "mean_face_z": 72773.6719,
+    "region": "global"
+  },
+  {
+    "point_id": 268,
+    "bfm_vertex_index": 22181,
+    "mean_face_x": -58695.168,
+    "mean_face_y": 29578.0039,
+    "mean_face_z": 76345.2969,
+    "region": "global"
+  },
+  {
+    "point_id": 269,
+    "bfm_vertex_index": 11871,
+    "mean_face_x": 30676.1953,
+    "mean_face_y": 28556.4277,
+    "mean_face_z": 95130.5078,
+    "region": "global"
+  },
+  {
+    "point_id": 270,
+    "bfm_vertex_index": 13777,
+    "mean_face_x": 47137.8281,
+    "mean_face_y": -48043.2812,
+    "mean_face_z": 80221.5391,
+    "region": "global"
+  },
+  {
+    "point_id": 271,
+    "bfm_vertex_index": 32170,
+    "mean_face_x": 37332.9219,
+    "mean_face_y": 71115.125,
+    "mean_face_z": 93423.1016,
+    "region": "global"
+  },
+  {
+    "point_id": 272,
+    "bfm_vertex_index": 11556,
+    "mean_face_x": 27205.9434,
+    "mean_face_y": -33262.457,
+    "mean_face_z": 102877.6484,
+    "region": "global"
+  },
+  {
+    "point_id": 273,
+    "bfm_vertex_index": 8533,
+    "mean_face_x": 3878.9153,
+    "mean_face_y": 17400.4824,
+    "mean_face_z": 116625.7812,
+    "region": "global"
+  },
+  {
+    "point_id": 274,
+    "bfm_vertex_index": 33716,
+    "mean_face_x": -60126.9102,
+    "mean_face_y": -46280.6953,
+    "mean_face_z": 24451.2812,
+    "region": "global"
+  },
+  {
+    "point_id": 275,
+    "bfm_vertex_index": 21434,
+    "mean_face_x": -65715.5078,
+    "mean_face_y": 14110.6689,
+    "mean_face_z": 64808.5117,
+    "region": "global"
+  },
+  {
+    "point_id": 276,
+    "bfm_vertex_index": 31124,
+    "mean_face_x": -24887.2637,
+    "mean_face_y": 67605.75,
+    "mean_face_z": 102682.8984,
+    "region": "global"
+  },
+  {
+    "point_id": 277,
+    "bfm_vertex_index": 19278,
+    "mean_face_x": -68349.2422,
+    "mean_face_y": -14514.1094,
+    "mean_face_z": 38830.9961,
+    "region": "global"
+  },
+  {
+    "point_id": 278,
+    "bfm_vertex_index": 35740,
+    "mean_face_x": -22898.2578,
+    "mean_face_y": -70485.9609,
+    "mean_face_z": 98650.7656,
+    "region": "global"
+  },
+  {
+    "point_id": 279,
+    "bfm_vertex_index": 17660,
+    "mean_face_x": -71584.8828,
+    "mean_face_y": 47534.0156,
+    "mean_face_z": 40479.1914,
+    "region": "global"
+  },
+  {
+    "point_id": 280,
+    "bfm_vertex_index": 37376,
+    "mean_face_x": 48777.0977,
+    "mean_face_y": -66866.4531,
+    "mean_face_z": 45934.957,
+    "region": "global"
+  },
+  {
+    "point_id": 281,
+    "bfm_vertex_index": 9507,
+    "mean_face_x": 12207.376,
+    "mean_face_y": -669.5547,
+    "mean_face_z": 116172.625,
+    "region": "global"
+  },
+  {
+    "point_id": 282,
+    "bfm_vertex_index": 27202,
+    "mean_face_x": 67527.2031,
+    "mean_face_y": 47943.8789,
+    "mean_face_z": 49080.3945,
+    "region": "global"
+  },
+  {
+    "point_id": 283,
+    "bfm_vertex_index": 11581,
+    "mean_face_x": 33394.1602,
+    "mean_face_y": -49485.6094,
+    "mean_face_z": 94425.2344,
+    "region": "global"
+  },
+  {
+    "point_id": 284,
+    "bfm_vertex_index": 26505,
+    "mean_face_x": 67278.8438,
+    "mean_face_y": -17146.209,
+    "mean_face_z": 39141.8125,
+    "region": "global"
+  },
+  {
+    "point_id": 285,
+    "bfm_vertex_index": 26731,
+    "mean_face_x": 70729.3906,
+    "mean_face_y": 11322.8574,
+    "mean_face_z": 36124.5352,
+    "region": "global"
+  },
+  {
+    "point_id": 286,
+    "bfm_vertex_index": 33798,
+    "mean_face_x": -59133.5156,
+    "mean_face_y": -51050.5039,
+    "mean_face_z": 50190.6094,
+    "region": "global"
+  },
+  {
+    "point_id": 287,
+    "bfm_vertex_index": 18359,
+    "mean_face_x": -70954.3125,
+    "mean_face_y": 376.7915,
+    "mean_face_z": 27332.5996,
+    "region": "global"
+  },
+  {
+    "point_id": 288,
+    "bfm_vertex_index": 14632,
+    "mean_face_x": 52255.4648,
+    "mean_face_y": -11688.9512,
+    "mean_face_z": 87184.6562,
+    "region": "global"
+  },
+  {
+    "point_id": 289,
+    "bfm_vertex_index": 36157,
+    "mean_face_x": 5611.7539,
+    "mean_face_y": -66431.5547,
+    "mean_face_z": 109047.4453,
+    "region": "global"
+  },
+  {
+    "point_id": 290,
+    "bfm_vertex_index": 36095,
+    "mean_face_x": -126.1884,
+    "mean_face_y": -88115.2891,
+    "mean_face_z": 89019.9609,
+    "region": "global"
+  },
+  {
+    "point_id": 291,
+    "bfm_vertex_index": 8317,
+    "mean_face_x": 1237.6021,
+    "mean_face_y": -14719.9941,
+    "mean_face_z": 123411.8281,
+    "region": "global"
+  },
+  {
+    "point_id": 292,
+    "bfm_vertex_index": 5403,
+    "mean_face_x": -28506.9824,
+    "mean_face_y": -46588.9688,
+    "mean_face_z": 98068.3828,
+    "region": "global"
+  },
+  {
+    "point_id": 293,
+    "bfm_vertex_index": 31928,
+    "mean_face_x": 19785.2324,
+    "mean_face_y": 46776.0039,
+    "mean_face_z": 108084.9375,
+    "region": "global"
+  },
+  {
+    "point_id": 294,
+    "bfm_vertex_index": 12670,
+    "mean_face_x": 35219.7656,
+    "mean_face_y": 10932.0684,
+    "mean_face_z": 93637.9688,
+    "region": "global"
+  },
+  {
+    "point_id": 295,
+    "bfm_vertex_index": 31375,
+    "mean_face_x": -8954.9717,
+    "mean_face_y": 48356.3594,
+    "mean_face_z": 110214.3984,
+    "region": "global"
+  },
+  {
+    "point_id": 296,
+    "bfm_vertex_index": 36599,
+    "mean_face_x": 29507.3789,
+    "mean_face_y": -80064.4922,
+    "mean_face_z": 76257.1875,
+    "region": "global"
+  },
+  {
+    "point_id": 297,
+    "bfm_vertex_index": 20966,
+    "mean_face_x": -64651.3555,
+    "mean_face_y": -23895.7734,
+    "mean_face_z": 54727.2266,
+    "region": "global"
+  },
+  {
+    "point_id": 298,
+    "bfm_vertex_index": 37098,
+    "mean_face_x": 44433.4414,
+    "mean_face_y": -66615.5312,
+    "mean_face_z": 70387.9766,
+    "region": "global"
+  },
+  {
+    "point_id": 299,
+    "bfm_vertex_index": 9468,
+    "mean_face_x": 12565.7588,
+    "mean_face_y": 28158.377,
+    "mean_face_z": 96374.8125,
+    "region": "global"
+  },
+  {
+    "point_id": 300,
+    "bfm_vertex_index": 34970,
+    "mean_face_x": -45467.7383,
+    "mean_face_y": -70410.5078,
+    "mean_face_z": 49843.7109,
+    "region": "global"
+  },
+  {
+    "point_id": 301,
+    "bfm_vertex_index": 7440,
+    "mean_face_x": -7535.2793,
+    "mean_face_y": 24827.2109,
+    "mean_face_z": 106946.3516,
+    "region": "global"
+  },
+  {
+    "point_id": 302,
+    "bfm_vertex_index": 35858,
+    "mean_face_x": -17491.0,
+    "mean_face_y": -84467.9844,
+    "mean_face_z": 91328.6719,
+    "region": "global"
+  },
+  {
+    "point_id": 303,
+    "bfm_vertex_index": 30766,
+    "mean_face_x": -46136.5703,
+    "mean_face_y": 83455.6797,
+    "mean_face_z": 81663.8047,
+    "region": "global"
+  },
+  {
+    "point_id": 304,
+    "bfm_vertex_index": 19876,
+    "mean_face_x": -69023.7812,
+    "mean_face_y": 23787.3867,
+    "mean_face_z": 51141.9062,
+    "region": "global"
+  },
+  {
+    "point_id": 305,
+    "bfm_vertex_index": 4392,
+    "mean_face_x": -37384.957,
+    "mean_face_y": 37340.293,
+    "mean_face_z": 99085.375,
+    "region": "global"
+  },
+  {
+    "point_id": 306,
+    "bfm_vertex_index": 9900,
+    "mean_face_x": 13097.4473,
+    "mean_face_y": -35699.3164,
+    "mean_face_z": 111765.8516,
+    "region": "global"
+  },
+  {
+    "point_id": 307,
+    "bfm_vertex_index": 3191,
+    "mean_face_x": -42888.3359,
+    "mean_face_y": -32934.0742,
+    "mean_face_z": 92336.4297,
+    "region": "global"
+  },
+  {
+    "point_id": 308,
+    "bfm_vertex_index": 16587,
+    "mean_face_x": -77455.7812,
+    "mean_face_y": 30565.0918,
+    "mean_face_z": 13575.8896,
+    "region": "global"
+  },
+  {
+    "point_id": 309,
+    "bfm_vertex_index": 28500,
+    "mean_face_x": 71960.3047,
+    "mean_face_y": 44770.9414,
+    "mean_face_z": 33381.3398,
+    "region": "global"
+  },
+  {
+    "point_id": 310,
+    "bfm_vertex_index": 36496,
+    "mean_face_x": 24596.875,
+    "mean_face_y": -62894.7227,
+    "mean_face_z": 97609.1953,
+    "region": "global"
+  },
+  {
+    "point_id": 311,
+    "bfm_vertex_index": 11142,
+    "mean_face_x": 20151.3926,
+    "mean_face_y": -6397.3608,
+    "mean_face_z": 103144.8906,
+    "region": "global"
+  },
+  {
+    "point_id": 312,
+    "bfm_vertex_index": 31306,
+    "mean_face_x": -15293.2236,
+    "mean_face_y": 81164.5469,
+    "mean_face_z": 101612.4062,
+    "region": "global"
+  },
+  {
+    "point_id": 313,
+    "bfm_vertex_index": 29968,
+    "mean_face_x": -64158.1016,
+    "mean_face_y": 65228.0273,
+    "mean_face_z": 60919.7188,
+    "region": "global"
+  },
+  {
+    "point_id": 314,
+    "bfm_vertex_index": 23094,
+    "mean_face_x": 55507.3125,
+    "mean_face_y": 23793.7793,
+    "mean_face_z": 77280.8203,
+    "region": "global"
+  },
+  {
+    "point_id": 315,
+    "bfm_vertex_index": 2383,
+    "mean_face_x": -47645.1523,
+    "mean_face_y": -1909.2998,
+    "mean_face_z": 92488.1172,
+    "region": "global"
+  },
+  {
+    "point_id": 316,
+    "bfm_vertex_index": 6028,
+    "mean_face_x": -17829.0039,
+    "mean_face_y": -37175.4609,
+    "mean_face_z": 108288.2969,
+    "region": "global"
+  },
+  {
+    "point_id": 317,
+    "bfm_vertex_index": 28260,
+    "mean_face_x": 73176.9062,
+    "mean_face_y": 30326.793,
+    "mean_face_z": 26677.2559,
+    "region": "global"
+  },
+  {
+    "point_id": 318,
+    "bfm_vertex_index": 15176,
+    "mean_face_x": 53399.8555,
+    "mean_face_y": -33315.3125,
+    "mean_face_z": 77328.5078,
+    "region": "global"
+  },
+  {
+    "point_id": 319,
+    "bfm_vertex_index": 31647,
+    "mean_face_x": 7878.8374,
+    "mean_face_y": 75452.8516,
+    "mean_face_z": 104095.0391,
+    "region": "global"
+  },
+  {
+    "point_id": 320,
+    "bfm_vertex_index": 1674,
+    "mean_face_x": -51769.3594,
+    "mean_face_y": -48414.4258,
+    "mean_face_z": 73656.7344,
+    "region": "global"
+  },
+  {
+    "point_id": 321,
+    "bfm_vertex_index": 16939,
+    "mean_face_x": -65019.2422,
+    "mean_face_y": -31079.4531,
+    "mean_face_z": 25038.8926,
+    "region": "global"
+  },
+  {
+    "point_id": 322,
+    "bfm_vertex_index": 8357,
+    "mean_face_x": 1424.9427,
+    "mean_face_y": -49943.4766,
+    "mean_face_z": 112587.1797,
+    "region": "global"
+  },
+  {
+    "point_id": 323,
+    "bfm_vertex_index": 32161,
+    "mean_face_x": 40662.5469,
+    "mean_face_y": 84749.4141,
+    "mean_face_z": 84944.7031,
+    "region": "global"
+  },
+  {
+    "point_id": 324,
+    "bfm_vertex_index": 30845,
+    "mean_face_x": -37027.5,
+    "mean_face_y": 57189.5156,
+    "mean_face_z": 99185.0312,
+    "region": "global"
+  },
+  {
+    "point_id": 325,
+    "bfm_vertex_index": 35058,
+    "mean_face_x": -43027.1094,
+    "mean_face_y": -61665.7227,
+    "mean_face_z": 78384.8828,
+    "region": "global"
+  },
+  {
+    "point_id": 326,
+    "bfm_vertex_index": 4426,
+    "mean_face_x": -29670.4219,
+    "mean_face_y": 14688.8867,
+    "mean_face_z": 94621.0234,
+    "region": "global"
+  },
+  {
+    "point_id": 327,
+    "bfm_vertex_index": 3687,
+    "mean_face_x": -37564.4961,
+    "mean_face_y": -15562.668,
+    "mean_face_z": 99364.1172,
+    "region": "global"
+  },
+  {
+    "point_id": 328,
+    "bfm_vertex_index": 24603,
+    "mean_face_x": 60371.5703,
+    "mean_face_y": -40774.0781,
+    "mean_face_z": 58506.2852,
+    "region": "global"
+  },
+  {
+    "point_id": 329,
+    "bfm_vertex_index": 25667,
+    "mean_face_x": 65407.9414,
+    "mean_face_y": 33143.9453,
+    "mean_face_z": 56884.2812,
+    "region": "global"
+  },
+  {
+    "point_id": 330,
+    "bfm_vertex_index": 35400,
+    "mean_face_x": -33325.4062,
+    "mean_face_y": -59862.8477,
+    "mean_face_z": 91156.25,
+    "region": "global"
+  },
+  {
+    "point_id": 331,
+    "bfm_vertex_index": 24825,
+    "mean_face_x": 65194.5117,
+    "mean_face_y": -15827.3662,
+    "mean_face_z": 54472.3125,
+    "region": "global"
+  },
+  {
+    "point_id": 332,
+    "bfm_vertex_index": 31657,
+    "mean_face_x": 6772.5884,
+    "mean_face_y": 54882.6406,
+    "mean_face_z": 109736.3125,
+    "region": "global"
+  },
+  {
+    "point_id": 333,
+    "bfm_vertex_index": 6570,
+    "mean_face_x": -16124.7959,
+    "mean_face_y": 36734.3594,
+    "mean_face_z": 103006.0547,
+    "region": "global"
+  },
+  {
+    "point_id": 334,
+    "bfm_vertex_index": 713,
+    "mean_face_x": -58819.8398,
+    "mean_face_y": -7763.0391,
+    "mean_face_z": 80184.6953,
+    "region": "global"
+  },
+  {
+    "point_id": 335,
+    "bfm_vertex_index": 38283,
+    "mean_face_x": 59413.6953,
+    "mean_face_y": -50743.7266,
+    "mean_face_z": 47125.4102,
+    "region": "global"
+  },
+  {
+    "point_id": 336,
+    "bfm_vertex_index": 18989,
+    "mean_face_x": -71744.5312,
+    "mean_face_y": 13230.3008,
+    "mean_face_z": 36604.5703,
+    "region": "global"
+  },
+  {
+    "point_id": 337,
+    "bfm_vertex_index": 25690,
+    "mean_face_x": 68952.6562,
+    "mean_face_y": 16626.1836,
+    "mean_face_z": 49908.7227,
+    "region": "global"
+  },
+  {
+    "point_id": 338,
+    "bfm_vertex_index": 13816,
+    "mean_face_x": 42803.1367,
+    "mean_face_y": 22912.7539,
+    "mean_face_z": 88616.6719,
+    "region": "global"
+  },
+  {
+    "point_id": 339,
+    "bfm_vertex_index": 33061,
+    "mean_face_x": 59524.332,
+    "mean_face_y": 57961.1562,
+    "mean_face_z": 69782.2969,
+    "region": "global"
+  },
+  {
+    "point_id": 340,
+    "bfm_vertex_index": 28766,
+    "mean_face_x": 62634.1797,
+    "mean_face_y": -40611.0117,
+    "mean_face_z": 29808.6719,
+    "region": "global"
+  },
+  {
+    "point_id": 341,
+    "bfm_vertex_index": 16493,
+    "mean_face_x": -74331.8516,
+    "mean_face_y": 56294.7227,
+    "mean_face_z": 28791.1309,
+    "region": "global"
+  },
+  {
+    "point_id": 342,
+    "bfm_vertex_index": 12448,
+    "mean_face_x": 34866.6562,
+    "mean_face_y": -21241.4316,
+    "mean_face_z": 99290.125,
+    "region": "global"
+  },
+  {
+    "point_id": 343,
+    "bfm_vertex_index": 35643,
+    "mean_face_x": -26615.043,
+    "mean_face_y": -83154.2422,
+    "mean_face_z": 71121.1172,
+    "region": "global"
+  },
+  {
+    "point_id": 344,
+    "bfm_vertex_index": 730,
+    "mean_face_x": -57604.4531,
+    "mean_face_y": -21999.6523,
+    "mean_face_z": 76918.1484,
+    "region": "global"
+  },
+  {
+    "point_id": 345,
+    "bfm_vertex_index": 5351,
+    "mean_face_x": -20080.9473,
+    "mean_face_y": -3809.3818,
+    "mean_face_z": 104053.7188,
+    "region": "global"
+  },
+  {
+    "point_id": 346,
+    "bfm_vertex_index": 20858,
+    "mean_face_x": -62126.1758,
+    "mean_face_y": -38045.7891,
+    "mean_face_z": 55547.0234,
+    "region": "global"
+  },
+  {
+    "point_id": 347,
+    "bfm_vertex_index": 29402,
+    "mean_face_x": -67946.4922,
+    "mean_face_y": 53832.2148,
+    "mean_face_z": 53016.7773,
+    "region": "global"
+  },
+  {
+    "point_id": 348,
+    "bfm_vertex_index": 32634,
+    "mean_face_x": 47820.0,
+    "mean_face_y": 48338.1094,
+    "mean_face_z": 92340.1016,
+    "region": "global"
+  },
+  {
+    "point_id": 349,
+    "bfm_vertex_index": 7479,
+    "mean_face_x": -3223.5164,
+    "mean_face_y": -867.5652,
+    "mean_face_z": 111093.9922,
+    "region": "global"
+  },
+  {
+    "point_id": 350,
+    "bfm_vertex_index": 23116,
+    "mean_face_x": 60482.0859,
+    "mean_face_y": 9402.7422,
+    "mean_face_z": 74951.0859,
+    "region": "global"
+  },
+  {
+    "point_id": 351,
+    "bfm_vertex_index": 15802,
+    "mean_face_x": 58011.0195,
+    "mean_face_y": -18701.625,
+    "mean_face_z": 76280.6406,
+    "region": "global"
+  },
+  {
+    "point_id": 352,
+    "bfm_vertex_index": 20690,
+    "mean_face_x": -67154.7734,
+    "mean_face_y": -9822.1543,
+    "mean_face_z": 52376.0039,
+    "region": "global"
+  },
+  {
+    "point_id": 353,
+    "bfm_vertex_index": 35924,
+    "mean_face_x": -11501.8271,
+    "mean_face_y": -67868.9375,
+    "mean_face_z": 107255.1562,
+    "region": "global"
+  },
+  {
+    "point_id": 354,
+    "bfm_vertex_index": 33158,
+    "mean_face_x": 55766.0391,
+    "mean_face_y": 45358.7188,
+    "mean_face_z": 80438.1094,
+    "region": "global"
+  },
+  {
+    "point_id": 355,
+    "bfm_vertex_index": 24284,
+    "mean_face_x": 66188.7891,
+    "mean_face_y": 4369.5059,
+    "mean_face_z": 62633.293,
+    "region": "global"
+  },
+  {
+    "point_id": 356,
+    "bfm_vertex_index": 30383,
+    "mean_face_x": -54303.3594,
+    "mean_face_y": 65243.5234,
+    "mean_face_z": 79017.2109,
+    "region": "global"
+  },
+  {
+    "point_id": 357,
+    "bfm_vertex_index": 1777,
+    "mean_face_x": -51380.5586,
+    "mean_face_y": -34177.6719,
+    "mean_face_z": 81288.7031,
+    "region": "global"
+  },
+  {
+    "point_id": 358,
+    "bfm_vertex_index": 1813,
+    "mean_face_x": -51984.8359,
+    "mean_face_y": 33069.9922,
+    "mean_face_z": 88264.8672,
+    "region": "global"
+  },
+  {
+    "point_id": 359,
+    "bfm_vertex_index": 35218,
+    "mean_face_x": -40756.6562,
+    "mean_face_y": -71998.5859,
+    "mean_face_z": 69640.2812,
+    "region": "global"
+  },
+  {
+    "point_id": 360,
+    "bfm_vertex_index": 22351,
+    "mean_face_x": -63626.0195,
+    "mean_face_y": 2309.9353,
+    "mean_face_z": 71734.6953,
+    "region": "global"
+  },
+  {
+    "point_id": 361,
+    "bfm_vertex_index": 28417,
+    "mean_face_x": 71383.7188,
+    "mean_face_y": 5443.0649,
+    "mean_face_z": 14780.9492,
+    "region": "global"
+  },
+  {
+    "point_id": 362,
+    "bfm_vertex_index": 36506,
+    "mean_face_x": 27370.084,
+    "mean_face_y": -76285.9375,
+    "mean_face_z": 89634.8203,
+    "region": "global"
+  },
+  {
+    "point_id": 363,
+    "bfm_vertex_index": 28635,
+    "mean_face_x": 68075.9609,
+    "mean_face_y": -16230.6484,
+    "mean_face_z": 19041.2773,
+    "region": "global"
+  },
+  {
+    "point_id": 364,
+    "bfm_vertex_index": 2367,
+    "mean_face_x": -45337.8086,
+    "mean_face_y": 11438.748,
+    "mean_face_z": 89406.1406,
+    "region": "global"
+  },
+  {
+    "point_id": 365,
+    "bfm_vertex_index": 29789,
+    "mean_face_x": -57290.9336,
+    "mean_face_y": 42421.875,
+    "mean_face_z": 80187.7266,
+    "region": "global"
+  },
+  {
+    "point_id": 366,
+    "bfm_vertex_index": 5107,
+    "mean_face_x": -22737.8867,
+    "mean_face_y": -17146.8379,
+    "mean_face_z": 103219.0703,
+    "region": "global"
+  },
+  {
+    "point_id": 367,
+    "bfm_vertex_index": 13974,
+    "mean_face_x": 46941.5742,
+    "mean_face_y": -209.2713,
+    "mean_face_z": 92002.4844,
+    "region": "global"
+  },
+  {
+    "point_id": 368,
+    "bfm_vertex_index": 7353,
+    "mean_face_x": -10805.3115,
+    "mean_face_y": -8468.0352,
+    "mean_face_z": 123948.3906,
+    "region": "global"
+  },
+  {
+    "point_id": 369,
+    "bfm_vertex_index": 32415,
+    "mean_face_x": 47671.457,
+    "mean_face_y": 71675.5,
+    "mean_face_z": 83572.2891,
+    "region": "global"
+  },
+  {
+    "point_id": 370,
+    "bfm_vertex_index": 16103,
+    "mean_face_x": 54590.5195,
+    "mean_face_y": -45000.6836,
+    "mean_face_z": 69662.8516,
+    "region": "global"
+  },
+  {
+    "point_id": 371,
+    "bfm_vertex_index": 12502,
+    "mean_face_x": 41391.3281,
+    "mean_face_y": 37034.7617,
+    "mean_face_z": 96753.8438,
+    "region": "global"
+  },
+  {
+    "point_id": 372,
+    "bfm_vertex_index": 8670,
+    "mean_face_x": 8113.0576,
+    "mean_face_y": -3660.6104,
+    "mean_face_z": 128391.2266,
+    "region": "global"
+  },
+  {
+    "point_id": 373,
+    "bfm_vertex_index": 808,
+    "mean_face_x": -51948.5312,
+    "mean_face_y": 19221.0449,
+    "mean_face_z": 81078.9609,
+    "region": "global"
+  },
+  {
+    "point_id": 374,
+    "bfm_vertex_index": 33813,
+    "mean_face_x": -59688.3633,
+    "mean_face_y": -50779.9102,
+    "mean_face_z": 36735.8633,
+    "region": "global"
+  },
+  {
+    "point_id": 375,
+    "bfm_vertex_index": 20900,
+    "mean_face_x": -64720.5039,
+    "mean_face_y": 27098.5234,
+    "mean_face_z": 63568.3398,
+    "region": "global"
+  },
+  {
+    "point_id": 376,
+    "bfm_vertex_index": 31941,
+    "mean_face_x": 26311.2559,
+    "mean_face_y": 74771.5703,
+    "mean_face_z": 99268.8203,
+    "region": "global"
+  },
+  {
+    "point_id": 377,
+    "bfm_vertex_index": 36276,
+    "mean_face_x": 13239.1807,
+    "mean_face_y": -86210.0469,
+    "mean_face_z": 89061.9062,
+    "region": "global"
+  },
+  {
+    "point_id": 378,
+    "bfm_vertex_index": 17181,
+    "mean_face_x": -73984.3281,
+    "mean_face_y": 39823.9336,
+    "mean_face_z": 30188.8457,
+    "region": "global"
+  },
+  {
+    "point_id": 379,
+    "bfm_vertex_index": 36163,
+    "mean_face_x": 6346.3433,
+    "mean_face_y": -78887.75,
+    "mean_face_z": 105924.6719,
+    "region": "global"
+  },
+  {
+    "point_id": 380,
+    "bfm_vertex_index": 36103,
+    "mean_face_x": -177.8678,
+    "mean_face_y": -90549.6016,
+    "mean_face_z": 76423.8359,
+    "region": "global"
+  },
+  {
+    "point_id": 381,
+    "bfm_vertex_index": 26489,
+    "mean_face_x": 69256.4297,
+    "mean_face_y": -3688.2686,
+    "mean_face_z": 37637.0117,
+    "region": "global"
+  },
+  {
+    "point_id": 382,
+    "bfm_vertex_index": 27683,
+    "mean_face_x": 65786.0078,
+    "mean_face_y": -28584.3789,
+    "mean_face_z": 32834.3945,
+    "region": "global"
+  },
+  {
+    "point_id": 383,
+    "bfm_vertex_index": 31264,
+    "mean_face_x": -15987.1094,
+    "mean_face_y": 58801.7266,
+    "mean_face_z": 108144.5859,
+    "region": "global"
+  },
+  {
+    "point_id": 384,
+    "bfm_vertex_index": 12466,
+    "mean_face_x": 36909.9648,
+    "mean_face_y": -37314.2305,
+    "mean_face_z": 95712.6562,
+    "region": "global"
+  },
+  {
+    "point_id": 385,
+    "bfm_vertex_index": 10823,
+    "mean_face_x": 27838.0938,
+    "mean_face_y": 39422.0078,
+    "mean_face_z": 101076.0,
+    "region": "global"
+  },
+  {
+    "point_id": 386,
+    "bfm_vertex_index": 7579,
+    "mean_face_x": -6643.6499,
+    "mean_face_y": 10684.0791,
+    "mean_face_z": 118957.5859,
+    "region": "global"
+  },
+  {
+    "point_id": 387,
+    "bfm_vertex_index": 32118,
+    "mean_face_x": 32605.4707,
+    "mean_face_y": 61050.7266,
+    "mean_face_z": 100004.5703,
+    "region": "global"
+  },
+  {
+    "point_id": 388,
+    "bfm_vertex_index": 33672,
+    "mean_face_x": -57295.918,
+    "mean_face_y": -47848.2617,
+    "mean_face_z": 62258.9883,
+    "region": "global"
+  },
+  {
+    "point_id": 389,
+    "bfm_vertex_index": 4665,
+    "mean_face_x": -29577.5625,
+    "mean_face_y": 28003.1074,
+    "mean_face_z": 95771.9219,
+    "region": "global"
+  },
+  {
+    "point_id": 390,
+    "bfm_vertex_index": 11286,
+    "mean_face_x": 22951.5098,
+    "mean_face_y": -21154.5977,
+    "mean_face_z": 103630.3203,
+    "region": "global"
+  },
+  {
+    "point_id": 391,
+    "bfm_vertex_index": 17952,
+    "mean_face_x": -72652.0938,
+    "mean_face_y": 20051.3535,
+    "mean_face_z": 25880.9453,
+    "region": "global"
+  },
+  {
+    "point_id": 392,
+    "bfm_vertex_index": 24376,
+    "mean_face_x": 61468.6992,
+    "mean_face_y": 30495.1621,
+    "mean_face_z": 68560.1719,
+    "region": "global"
+  },
+  {
+    "point_id": 393,
+    "bfm_vertex_index": 37289,
+    "mean_face_x": 47917.3555,
+    "mean_face_y": -66766.2109,
+    "mean_face_z": 58459.6289,
+    "region": "global"
+  },
+  {
+    "point_id": 394,
+    "bfm_vertex_index": 15394,
+    "mean_face_x": 56638.0742,
+    "mean_face_y": -862.8566,
+    "mean_face_z": 82986.9062,
+    "region": "global"
+  },
+  {
+    "point_id": 395,
+    "bfm_vertex_index": 18832,
+    "mean_face_x": -69472.8203,
+    "mean_face_y": 35123.5273,
+    "mean_face_z": 45385.0547,
+    "region": "global"
+  },
+  {
+    "point_id": 396,
+    "bfm_vertex_index": 20880,
+    "mean_face_x": -61844.8438,
+    "mean_face_y": 39342.3086,
+    "mean_face_z": 69105.2188,
+    "region": "global"
+  },
+  {
+    "point_id": 397,
+    "bfm_vertex_index": 11646,
+    "mean_face_x": 26440.1641,
+    "mean_face_y": 3929.781,
+    "mean_face_z": 98797.25,
+    "region": "global"
+  },
+  {
+    "point_id": 398,
+    "bfm_vertex_index": 33431,
+    "mean_face_x": 67783.8594,
+    "mean_face_y": 60934.7734,
+    "mean_face_z": 48564.4062,
+    "region": "global"
+  },
+  {
+    "point_id": 399,
+    "bfm_vertex_index": 32683,
+    "mean_face_x": 55228.9414,
+    "mean_face_y": 68686.5,
+    "mean_face_z": 74133.4531,
+    "region": "global"
+  },
+  {
+    "point_id": 400,
+    "bfm_vertex_index": 8880,
+    "mean_face_x": 7055.9946,
+    "mean_face_y": 24765.043,
+    "mean_face_z": 106814.9688,
+    "region": "global"
+  },
+  {
+    "point_id": 401,
+    "bfm_vertex_index": 6314,
+    "mean_face_x": -23473.8125,
+    "mean_face_y": -57585.8516,
+    "mean_face_z": 99863.8672,
+    "region": "global"
+  },
+  {
+    "point_id": 402,
+    "bfm_vertex_index": 30952,
+    "mean_face_x": -35367.9688,
+    "mean_face_y": 74171.4844,
+    "mean_face_z": 95434.8906,
+    "region": "global"
+  },
+  {
+    "point_id": 403,
+    "bfm_vertex_index": 7727,
+    "mean_face_x": -3920.1882,
+    "mean_face_y": -22406.3242,
+    "mean_face_z": 115466.6328,
+    "region": "global"
+  },
+  {
+    "point_id": 404,
+    "bfm_vertex_index": 32393,
+    "mean_face_x": 43166.3242,
+    "mean_face_y": 59595.668,
+    "mean_face_z": 92239.4844,
+    "region": "global"
+  },
+  {
+    "point_id": 405,
+    "bfm_vertex_index": 21323,
+    "mean_face_x": -67112.3359,
+    "mean_face_y": -403.5029,
+    "mean_face_z": 60388.5078,
+    "region": "global"
+  },
+  {
+    "point_id": 406,
+    "bfm_vertex_index": 17329,
+    "mean_face_x": -73132.8438,
+    "mean_face_y": 1782.4536,
+    "mean_face_z": 15481.4131,
+    "region": "global"
+  },
+  {
+    "point_id": 407,
+    "bfm_vertex_index": 5717,
+    "mean_face_x": -18200.084,
+    "mean_face_y": 14123.6211,
+    "mean_face_z": 98137.1953,
+    "region": "global"
+  },
+  {
+    "point_id": 408,
+    "bfm_vertex_index": 33488,
+    "mean_face_x": 64025.3008,
+    "mean_face_y": 53153.7852,
+    "mean_face_z": 59757.3984,
+    "region": "global"
+  },
+  {
+    "point_id": 409,
+    "bfm_vertex_index": 34486,
+    "mean_face_x": -53300.6719,
+    "mean_face_y": -61529.2188,
+    "mean_face_z": 48416.293,
+    "region": "global"
+  },
+  {
+    "point_id": 410,
+    "bfm_vertex_index": 30251,
+    "mean_face_x": -53607.875,
+    "mean_face_y": 53743.0898,
+    "mean_face_z": 83205.5938,
+    "region": "global"
+  },
+  {
+    "point_id": 411,
+    "bfm_vertex_index": 25099,
+    "mean_face_x": 64131.957,
+    "mean_face_y": -27471.7754,
+    "mean_face_z": 52636.4102,
+    "region": "global"
+  },
+  {
+    "point_id": 412,
+    "bfm_vertex_index": 6274,
+    "mean_face_x": -14488.6982,
+    "mean_face_y": -25873.5742,
+    "mean_face_z": 110933.4766,
+    "region": "global"
+  },
+  {
+    "point_id": 413,
+    "bfm_vertex_index": 36315,
+    "mean_face_x": 16558.6289,
+    "mean_face_y": -68693.5078,
+    "mean_face_z": 104039.7031,
+    "region": "global"
+  },
+  {
+    "point_id": 414,
+    "bfm_vertex_index": 8663,
+    "mean_face_x": 5969.0493,
+    "mean_face_y": 6764.6763,
+    "mean_face_z": 122871.1797,
+    "region": "global"
+  },
+  {
+    "point_id": 415,
+    "bfm_vertex_index": 37463,
+    "mean_face_x": 49459.5352,
+    "mean_face_y": -56076.3516,
+    "mean_face_z": 71515.9219,
+    "region": "global"
+  },
+  {
+    "point_id": 416,
+    "bfm_vertex_index": 11500,
+    "mean_face_x": 25605.332,
+    "mean_face_y": 17997.8555,
+    "mean_face_z": 94692.75,
+    "region": "global"
+  },
+  {
+    "point_id": 417,
+    "bfm_vertex_index": 13474,
+    "mean_face_x": 43816.6758,
+    "mean_face_y": -14996.7324,
+    "mean_face_z": 94572.7891,
+    "region": "global"
+  },
+  {
+    "point_id": 418,
+    "bfm_vertex_index": 27628,
+    "mean_face_x": 71352.4297,
+    "mean_face_y": 18791.9434,
+    "mean_face_z": 27141.4824,
+    "region": "global"
+  },
+  {
+    "point_id": 419,
+    "bfm_vertex_index": 10674,
+    "mean_face_x": 24191.7793,
+    "mean_face_y": -44208.5352,
+    "mean_face_z": 100150.75,
+    "region": "global"
+  },
+  {
+    "point_id": 420,
+    "bfm_vertex_index": 31464,
+    "mean_face_x": -4364.3911,
+    "mean_face_y": 77827.6719,
+    "mean_face_z": 103929.3203,
+    "region": "global"
+  },
+  {
+    "point_id": 421,
+    "bfm_vertex_index": 31694,
+    "mean_face_x": 12134.8721,
+    "mean_face_y": 85468.8594,
+    "mean_face_z": 99922.3984,
+    "region": "global"
+  },
+  {
+    "point_id": 422,
+    "bfm_vertex_index": 35694,
+    "mean_face_x": -25473.9219,
+    "mean_face_y": -81809.7969,
+    "mean_face_z": 82711.7969,
+    "region": "global"
+  },
+  {
+    "point_id": 423,
+    "bfm_vertex_index": 9497,
+    "mean_face_x": 10823.4795,
+    "mean_face_y": 9656.8994,
+    "mean_face_z": 110979.4219,
+    "region": "global"
+  },
+  {
+    "point_id": 424,
+    "bfm_vertex_index": 12235,
+    "mean_face_x": 39831.2305,
+    "mean_face_y": -55503.8164,
+    "mean_face_z": 86096.3281,
+    "region": "global"
+  },
+  {
+    "point_id": 425,
+    "bfm_vertex_index": 23661,
+    "mean_face_x": 62996.2578,
+    "mean_face_y": -14455.6611,
+    "mean_face_z": 65709.375,
+    "region": "global"
+  },
+  {
+    "point_id": 426,
+    "bfm_vertex_index": 9815,
+    "mean_face_x": 16061.0459,
+    "mean_face_y": 37147.3164,
+    "mean_face_z": 102670.1641,
+    "region": "global"
+  },
+  {
+    "point_id": 427,
+    "bfm_vertex_index": 29216,
+    "mean_face_x": 73447.4062,
+    "mean_face_y": 53620.0977,
+    "mean_face_z": 26196.5273,
+    "region": "global"
+  },
+  {
+    "point_id": 428,
+    "bfm_vertex_index": 18519,
+    "mean_face_x": -66918.8203,
+    "mean_face_y": -25158.8184,
+    "mean_face_z": 34755.3008,
+    "region": "global"
+  },
+  {
+    "point_id": 429,
+    "bfm_vertex_index": 18242,
+    "mean_face_x": -69634.2812,
+    "mean_face_y": -11213.582,
+    "mean_face_z": 27949.7656,
+    "region": "global"
+  },
+  {
+    "point_id": 430,
+    "bfm_vertex_index": 29459,
+    "mean_face_x": -64113.5156,
+    "mean_face_y": 49193.9922,
+    "mean_face_z": 62717.2773,
+    "region": "global"
+  },
+  {
+    "point_id": 431,
+    "bfm_vertex_index": 29119,
+    "mean_face_x": 76173.8125,
+    "mean_face_y": 32862.3555,
+    "mean_face_z": 15978.04,
+    "region": "global"
+  },
+  {
+    "point_id": 432,
+    "bfm_vertex_index": 22253,
+    "mean_face_x": -61937.8047,
+    "mean_face_y": -22977.8359,
+    "mean_face_z": 65735.0391,
+    "region": "global"
+  },
+  {
+    "point_id": 433,
+    "bfm_vertex_index": 6624,
+    "mean_face_x": -14562.7979,
+    "mean_face_y": -3155.1526,
+    "mean_face_z": 114679.0625,
+    "region": "global"
+  },
+  {
+    "point_id": 434,
+    "bfm_vertex_index": 8004,
+    "mean_face_x": -3428.7102,
+    "mean_face_y": -59755.9062,
+    "mean_face_z": 107863.1094,
+    "region": "global"
+  },
+  {
+    "point_id": 435,
+    "bfm_vertex_index": 22464,
+    "mean_face_x": -60057.0391,
+    "mean_face_y": 14812.4131,
+    "mean_face_z": 74475.125,
+    "region": "global"
+  },
+  {
+    "point_id": 436,
+    "bfm_vertex_index": 30594,
+    "mean_face_x": -45836.5195,
+    "mean_face_y": 57357.9414,
+    "mean_face_z": 91562.2969,
+    "region": "global"
+  },
+  {
+    "point_id": 437,
+    "bfm_vertex_index": 9052,
+    "mean_face_x": 6045.2471,
+    "mean_face_y": -27957.541,
+    "mean_face_z": 115497.8906,
+    "region": "global"
+  },
+  {
+    "point_id": 438,
+    "bfm_vertex_index": 19265,
+    "mean_face_x": -70129.6406,
+    "mean_face_y": -3438.0686,
+    "mean_face_z": 37722.6055,
+    "region": "global"
+  },
+  {
+    "point_id": 439,
+    "bfm_vertex_index": 13504,
+    "mean_face_x": 44748.4492,
+    "mean_face_y": -39462.3047,
+    "mean_face_z": 87136.3672,
+    "region": "global"
+  },
+  {
+    "point_id": 440,
+    "bfm_vertex_index": 7513,
+    "mean_face_x": -9604.9717,
+    "mean_face_y": -44428.1953,
+    "mean_face_z": 112874.5781,
+    "region": "global"
+  },
+  {
+    "point_id": 441,
+    "bfm_vertex_index": 20405,
+    "mean_face_x": -69449.1016,
+    "mean_face_y": 13003.0312,
+    "mean_face_z": 53300.75,
+    "region": "global"
+  },
+  {
+    "point_id": 442,
+    "bfm_vertex_index": 23331,
+    "mean_face_x": 57476.8594,
+    "mean_face_y": 34635.8633,
+    "mean_face_z": 78661.375,
+    "region": "global"
+  },
+  {
+    "point_id": 443,
+    "bfm_vertex_index": 27511,
+    "mean_face_x": 70328.5391,
+    "mean_face_y": 7604.7285,
+    "mean_face_z": 25862.2891,
+    "region": "global"
+  },
+  {
+    "point_id": 444,
+    "bfm_vertex_index": 32020,
+    "mean_face_x": 32617.0938,
+    "mean_face_y": 82201.375,
+    "mean_face_z": 93261.2422,
+    "region": "global"
+  },
+  {
+    "point_id": 445,
+    "bfm_vertex_index": 9275,
+    "mean_face_x": 11372.125,
+    "mean_face_y": -10586.2832,
+    "mean_face_z": 120459.3438,
+    "region": "global"
+  },
+  {
+    "point_id": 446,
+    "bfm_vertex_index": 14645,
+    "mean_face_x": 51654.9141,
+    "mean_face_y": -22833.8984,
+    "mean_face_z": 84428.2109,
+    "region": "global"
+  },
+  {
+    "point_id": 447,
+    "bfm_vertex_index": 31311,
+    "mean_face_x": -14137.0898,
+    "mean_face_y": 70890.4375,
+    "mean_face_z": 104707.7422,
+    "region": "global"
+  },
+  {
+    "point_id": 448,
+    "bfm_vertex_index": 31678,
+    "mean_face_x": 8904.21,
+    "mean_face_y": 65080.4531,
+    "mean_face_z": 106831.0312,
+    "region": "global"
+  },
+  {
+    "point_id": 449,
+    "bfm_vertex_index": 5554,
+    "mean_face_x": -26564.6348,
+    "mean_face_y": 37269.0078,
+    "mean_face_z": 100296.7344,
+    "region": "global"
+  },
+  {
+    "point_id": 450,
+    "bfm_vertex_index": 32711,
+    "mean_face_x": 58091.7109,
+    "mean_face_y": 74549.6094,
+    "mean_face_z": 65624.3047,
+    "region": "global"
+  },
+  {
+    "point_id": 451,
+    "bfm_vertex_index": 17192,
+    "mean_face_x": -74984.2812,
+    "mean_face_y": 30999.0762,
+    "mean_face_z": 23990.1406,
+    "region": "global"
+  },
+  {
+    "point_id": 452,
+    "bfm_vertex_index": 4227,
+    "mean_face_x": -35248.1758,
+    "mean_face_y": -38236.7227,
+    "mean_face_z": 97570.4062,
+    "region": "global"
+  },
+  {
+    "point_id": 453,
+    "bfm_vertex_index": 7658,
+    "mean_face_x": -5802.3989,
+    "mean_face_y": 35745.0469,
+    "mean_face_z": 107951.5859,
+    "region": "global"
+  },
+  {
+    "point_id": 454,
+    "bfm_vertex_index": 35878,
+    "mean_face_x": -16402.1582,
+    "mean_face_y": -78710.7031,
+    "mean_face_z": 101299.3281,
+    "region": "global"
+  },
+  {
+    "point_id": 455,
+    "bfm_vertex_index": 30668,
+    "mean_face_x": -42257.125,
+    "mean_face_y": 46764.5898,
+    "mean_face_z": 99017.3906,
+    "region": "global"
+  },
+  {
+    "point_id": 456,
+    "bfm_vertex_index": 17058,
+    "mean_face_x": -71933.1094,
+    "mean_face_y": 58044.0039,
+    "mean_face_z": 39567.5156,
+    "region": "global"
+  },
+  {
+    "point_id": 457,
+    "bfm_vertex_index": 32008,
+    "mean_face_x": 26037.5566,
+    "mean_face_y": 54885.5,
+    "mean_face_z": 105488.7656,
+    "region": "global"
+  },
+  {
+    "point_id": 458,
+    "bfm_vertex_index": 36408,
+    "mean_face_x": 20675.9961,
+    "mean_face_y": -84645.2656,
+    "mean_face_z": 81753.3906,
+    "region": "global"
+  },
+  {
+    "point_id": 459,
+    "bfm_vertex_index": 36801,
+    "mean_face_x": 37130.2109,
+    "mean_face_y": -72784.0391,
+    "mean_face_z": 76206.2734,
+    "region": "global"
+  },
+  {
+    "point_id": 460,
+    "bfm_vertex_index": 24426,
+    "mean_face_x": 65801.7734,
+    "mean_face_y": -6456.0669,
+    "mean_face_z": 59203.3945,
+    "region": "global"
+  },
+  {
+    "point_id": 461,
+    "bfm_vertex_index": 8072,
+    "mean_face_x": -2527.313,
+    "mean_face_y": -7952.2661,
+    "mean_face_z": 131484.2188,
+    "region": "global"
+  },
+  {
+    "point_id": 462,
+    "bfm_vertex_index": 37794,
+    "mean_face_x": 55130.0195,
+    "mean_face_y": -58820.0742,
+    "mean_face_z": 41430.8906,
+    "region": "global"
+  },
+  {
+    "point_id": 463,
+    "bfm_vertex_index": 11923,
+    "mean_face_x": 28953.9238,
+    "mean_face_y": -12871.5254,
+    "mean_face_z": 101620.6484,
+    "region": "global"
+  },
+  {
+    "point_id": 464,
+    "bfm_vertex_index": 35000,
+    "mean_face_x": -45277.4336,
+    "mean_face_y": -69577.6797,
+    "mean_face_z": 60394.3906,
+    "region": "global"
+  },
+  {
+    "point_id": 465,
+    "bfm_vertex_index": 36168,
+    "mean_face_x": 6253.9692,
+    "mean_face_y": -85322.3125,
+    "mean_face_z": 97748.7734,
+    "region": "global"
+  },
+  {
+    "point_id": 466,
+    "bfm_vertex_index": 27403,
+    "mean_face_x": 68546.0391,
+    "mean_face_y": -13159.8535,
+    "mean_face_z": 29625.7871,
+    "region": "global"
+  },
+  {
+    "point_id": 467,
+    "bfm_vertex_index": 4454,
+    "mean_face_x": -29469.6562,
+    "mean_face_y": -9155.917,
+    "mean_face_z": 102045.3594,
+    "region": "global"
+  }
+]
